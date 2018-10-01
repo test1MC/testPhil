@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSearchFilterSet>
+  <SearchFilter
+    Name="Audits Recordkeeping and Procedures"
+    Concepts="Audits"></SearchFilter>
+  <SearchFilter
+    Name="Administrative Remedies"
+    Comment=""
+    Concepts="AdminRemedies" />
+  <SearchFilter
+    Name="BSA Enforcement"
+    Comment=""
+    Concepts="BSA" />
+  <SearchFilter
+    Name="Change of Officials"
+    Comment=""
+    Concepts="ChangeOfficials" />
+  <SearchFilter
+    Name="Corporate CU Program"
+    Comment=""
+    Concepts="Corporates" />
+  <SearchFilter
+    Name="CUSO Reviews"
+    Comment=""
+    Concepts="CUSOreviews" />
+  <SearchFilter
+    Name="Derivatives Authority"
+    Comment=""
+    Concepts="Derivatives" />
+  <SearchFilter
+    Name="District Management"
+    Comment=""
+    Concepts="DistrictMgmt" />
+  <SearchFilter
+    Name="Exam Complaints"
+    Comment=""
+    Concepts="ExamComplaints" />
+  <SearchFilter
+    Name="Exam Report Writing"
+    Comment=""
+    Concepts="ExamReports" />
+  <SearchFilter
+    Name="FCU Program"
+    Comment=""
+    Concepts="FCUs" />
+  <SearchFilter
+    Name="FISCU Program"
+    Comment=""
+    Concepts="FISCUs" />
+  <SearchFilter
+    Name="OSCUI Consulting"
+    Comment=""
+    Concepts="OSCUI" />
+  <SearchFilter
+    Name="PCA"
+    Comment=""
+    Concepts="PCA" />
+  <SearchFilter
+    Name="Quality Assurance"
+    Comment=""
+    Concepts="QualityAssurance" />
+  <SearchFilter
+    Name="Regulatory Waivers"
+    Comment=""
+    Concepts="RegulatoryWaivers" />
+  <SearchFilter
+    Name="WCCs"
+    Comment=""
+    Concepts="WCCs" />
+  <SearchFilter
+    Name="CUSO Registry"
+    Comment=""
+    Concepts="CUSOregistry" />
+</CatapultSearchFilterSet>

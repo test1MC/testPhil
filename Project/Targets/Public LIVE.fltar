@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="MadCap HTML5 Target"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="first"
+  MasterToc="/Project/TOCs/NSPM.fltoc"
+  ConditionTagExpression="exclude[Default.InternalUseOnly or Default.PrintOnly or Redaction.Redacted or Redaction.Non-Redacted] "
+  MasterStylesheet="/Content/Resources/Stylesheets/Master_Style_Sheet.css"
+  MasterPage="/Content/Resources/MasterPages/MasterPage.flmsp"
+  SearchFilterSet="/Project/Advanced/Search Filters/NSPM.flsfs">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+  <Destinations>
+    <Destination
+      Link="/Project/Destinations/NCUA_Production.fldes" />
+  </Destinations>
+</CatapultTarget>

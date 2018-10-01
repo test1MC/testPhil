@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="PDF"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  MasterToc="/Project/TOCs/NSPM.fltoc"
+  MasterPageLayout="/Content/Resources/PageLayouts/Default.flpgl"
+  MasterStylesheet="/Content/Resources/Stylesheets/Master_Style_Sheet.css"
+  GetLatestBeforeCompile="true"
+  AutoSizeCaptureCaptions="true"
+  RedactedTextConversion="blackout"
+  PatchHeadingLevels="true"
+  ConditionTagExpression="exclude[Default.InternalUseOnly or Default.ScreenOnly] ">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="false"
+    GenerateIndexProxy="false"
+    GenerateGlossaryProxy="false" />
+  <PDF
+    Tagged="true"
+    CollapsedBookmarks="true"
+    ShowUsedBookmarks="false"
+    InitialMagnification="Fit"
+    TitleBar="FileName" />
+</CatapultTarget>

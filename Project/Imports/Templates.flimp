@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="true"
+  KeepSourceLinks="true"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2015-04-07T10:51:40.4030270-04:00"
+  ProjectName="NSPM"
+  ProjectFolder="C:\Users\jacquelynr\Desktop\NSPM_Flare\"
+  AutoSync="false"
+  AutoFitTables="false"
+  Stylesheet="../../../../Documents/My Projects/NCUA_Master/Content/Resources/Stylesheets/Master_Style_Sheet.css"
+  LastImport="2015-04-07T10:51:43.9282202-04:00">
+  <Files>
+    <Url
+      Source="../../../TEST.docx"
+      AbsoluteSource="file:///C:/Users/jacquelynr/Desktop/TEST.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/TEST/Haha Fooled you not a test.htm"
+      TimeStamp="4/7/2015 10:51:40 AM" />
+    <Url
+      Source="../TOCs/TEST.fltoc"
+      TimeStamp="4/7/2015 10:51:40 AM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/Master_Style_Sheet1.css"
+      TimeStamp="4/7/2015 10:51:40 AM" />
+  </GeneratedFiles>
+  <ParagraphStyles />
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles />
+  <UsedParagraphStyles />
+  <UsedCharacterStyles />
+</MsWordImport>

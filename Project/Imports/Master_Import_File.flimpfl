@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultProjectImport
+  AutoSync="true"
+  IncludePattern="*.htm;*.html;*.png;*.bmp;*.jpg;*.jpeg;*.tif;*.tiff;*.gif;*.swd;*.emf;*.wmf;*.xaml;*.xps;*.exps;*.hdp;*.wdp;*.svg;*.ps;*.eps;*.dib;*.flmsp;*.css"
+  LastImport="2018-09-27T15:01:57.7330159-04:00">
+  <Files>
+    <Url
+      Source="file:///C:/Users/jacquelynr/Documents/My Projects/NCUA_Master/NCUA_Master.flprj"
+      AbsoluteSource="file:///C:/Users/jacquelynr/Documents/My Projects/NCUA_Master/NCUA_Master.flprj" />
+  </Files>
+  <ExcludedFiles>
+    <Url
+      Source="../../Content/Resources/Stylesheets/Master_Style_Sheet.css"
+      AbsoluteSource="file:///C:/Users/JACQUELYNR/Documents/NSPM/Content/Resources/Stylesheets/Master_Style_Sheet.css" />
+  </ExcludedFiles>
+  <CollectedSourceFiles>
+    <Url
+      Source="file:///U:/E&amp;I/MadCap DO NOT TOUCH/MadCap Master Files/NCUA_Master/Content/Topic Template.htm"
+      AbsoluteSource="file:///U:/E&amp;I/MadCap DO NOT TOUCH/MadCap Master Files/NCUA_Master/Content/Topic Template.htm" />
+    <Url
+      Source="file:///U:/E&amp;I/MadCap DO NOT TOUCH/MadCap Master Files/NCUA_Master/Content/Resources/Stylesheets/Master_Style_Sheet.css"
+      AbsoluteSource="file:///U:/E&amp;I/MadCap DO NOT TOUCH/MadCap Master Files/NCUA_Master/Content/Resources/Stylesheets/Master_Style_Sheet.css" />
+    <Url
+      Source="file:///U:/E&amp;I/MadCap DO NOT TOUCH/MadCap Master Files/NCUA_Master/Content/Resources/Images/NCUAlogo_large_no text.png"
+      AbsoluteSource="file:///U:/E&amp;I/MadCap DO NOT TOUCH/MadCap Master Files/NCUA_Master/Content/Resources/Images/NCUAlogo_large_no text.png" />
+    <Url
+      Source="file:///U:/E&amp;I/MadCap DO NOT TOUCH/MadCap Master Files/NCUA_Master/Content/Resources/Images/NCUAlogo_button.PNG"
+      AbsoluteSource="file:///U:/E&amp;I/MadCap DO NOT TOUCH/MadCap Master Files/NCUA_Master/Content/Resources/Images/NCUAlogo_button.PNG" />
+    <Url
+      Source="file:///U:/E&amp;I/MadCap DO NOT TOUCH/MadCap Master Files/NCUA_Master/Content/Resources/Images/NCUAlogo_large_text.png"
+      AbsoluteSource="file:///U:/E&amp;I/MadCap DO NOT TOUCH/MadCap Master Files/NCUA_Master/Content/Resources/Images/NCUAlogo_large_text.png" />
+    <Url
+      Source="file:///U:/E&amp;I/MadCap DO NOT TOUCH/MadCap Master Files/NCUA_Master/Content/Resources/MasterPages/MasterPage.flmsp"
+      AbsoluteSource="file:///U:/E&amp;I/MadCap DO NOT TOUCH/MadCap Master Files/NCUA_Master/Content/Resources/MasterPages/MasterPage.flmsp" />
+    <Url
+      Source="file:///U:/E&amp;I/MadCap DO NOT TOUCH/MadCap Master Files/NCUA_Master/Content/Resources/TableStyles/HomePageTableMaster.css"
+      AbsoluteSource="file:///U:/E&amp;I/MadCap DO NOT TOUCH/MadCap Master Files/NCUA_Master/Content/Resources/TableStyles/HomePageTableMaster.css" />
+    <Url
+      Source="../../../My Projects/NCUA_Master/Content/Topic Template.htm"
+      AbsoluteSource="file:///C:/Users/JACQUELYNR/Documents/My Projects/NCUA_Master/Content/Topic Template.htm" />
+    <Url
+      Source="../../../My Projects/NCUA_Master/Content/Resources/Images/NCUAlogo_button.PNG"
+      AbsoluteSource="file:///C:/Users/JACQUELYNR/Documents/My Projects/NCUA_Master/Content/Resources/Images/NCUAlogo_button.PNG" />
+    <Url
+      Source="../../../My Projects/NCUA_Master/Content/Resources/Images/NCUAlogo_large_no text.png"
+      AbsoluteSource="file:///C:/Users/JACQUELYNR/Documents/My Projects/NCUA_Master/Content/Resources/Images/NCUAlogo_large_no text.png" />
+    <Url
+      Source="../../../My Projects/NCUA_Master/Content/Resources/Images/NCUAlogo_large_text.png"
+      AbsoluteSource="file:///C:/Users/JACQUELYNR/Documents/My Projects/NCUA_Master/Content/Resources/Images/NCUAlogo_large_text.png" />
+    <Url
+      Source="../../../My Projects/NCUA_Master/Content/Resources/MasterPages/MasterPage.flmsp"
+      AbsoluteSource="file:///C:/Users/JACQUELYNR/Documents/My Projects/NCUA_Master/Content/Resources/MasterPages/MasterPage.flmsp" />
+    <Url
+      Source="../../../My Projects/NCUA_Master/Content/Resources/Stylesheets/Master_Style_Sheet.css"
+      AbsoluteSource="file:///C:/Users/JACQUELYNR/Documents/My Projects/NCUA_Master/Content/Resources/Stylesheets/Master_Style_Sheet.css" />
+    <Url
+      Source="../../../My Projects/NCUA_Master/Content/Resources/TableStyles/HomePageTableMaster.css"
+      AbsoluteSource="file:///C:/Users/JACQUELYNR/Documents/My Projects/NCUA_Master/Content/Resources/TableStyles/HomePageTableMaster.css" />
+    <Url
+      Source="../../../My Projects/NCUA_Master/Content/Resources/Images/Blue_Bullet.png"
+      AbsoluteSource="file:///C:/Users/JACQUELYNR/Documents/My Projects/NCUA_Master/Content/Resources/Images/Blue_Bullet.png" />
+    <Url
+      Source="../../../My Projects/NCUA_Master/Content/Resources/TableStyles/CalloutNote.css"
+      AbsoluteSource="file:///C:/Users/JACQUELYNR/Documents/My Projects/NCUA_Master/Content/Resources/TableStyles/CalloutNote.css" />
+  </CollectedSourceFiles>
+  <SkippedSourceFiles>
+    <Url
+      Source="../../../My Projects/NCUA_Master/Content/Resources/Images/Blue_Bullet.png"
+      AbsoluteSource="file:///C:/Users/JACQUELYNR/Documents/My Projects/NCUA_Master/Content/Resources/Images/Blue_Bullet.png" />
+  </SkippedSourceFiles>
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Topic Template.htm"
+      TimeStamp="3/13/2015 1:15:16 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/Master_Style_Sheet.css"
+      TimeStamp="3/13/2015 1:17:00 PM" />
+    <Url
+      Source="../../Content/Resources/Images/NCUAlogo_large_no text.png"
+      TimeStamp="3/13/2015 1:15:17 PM" />
+    <Url
+      Source="../../Content/Resources/Images/NCUAlogo_button.PNG"
+      TimeStamp="3/13/2015 1:15:17 PM" />
+    <Url
+      Source="../../Content/Resources/Images/NCUAlogo_large_text.png"
+      TimeStamp="3/13/2015 1:15:17 PM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/MasterPage.flmsp"
+      TimeStamp="3/13/2015 1:15:17 PM" />
+    <Url
+      Source="../../Content/Resources/TableStyles/HomePageTableMaster.css"
+      TimeStamp="3/13/2015 1:15:17 PM" />
+    <Url
+      Source="../../Content/Resources/Images/Blue_Bullet.png"
+      TimeStamp="4/8/2015 10:14:13 AM" />
+    <Url
+      Source="../../Content/Resources/TableStyles/CalloutNote.css"
+      TimeStamp="4/8/2015 11:08:00 AM" />
+  </GeneratedFiles>
+</CatapultProjectImport>

@@ -1,0 +1,2808 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="National Supervision Policy Manual"
+    Link="/Content/NSPM/_PrintOnly/PrintCover.htm"
+    conditions="Default.PrintOnly"
+    BreakType="chapter"
+    PageType="title"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/Default.flpgl" />
+  <TocEntry
+    Title="Introduction"
+    Link="/Content/NSPM/_PrintOnly/Welcome.htm"
+    conditions="Default.PrintOnly"
+    StartSection="false"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    ComputeToc="false"
+    ReplaceMergeNode="false"
+    BreakType="chapter"
+    PageNumberFormat="lower-roman"
+    PageNumberReset="reset"
+    PageLayout="/Content/Resources/PageLayouts/RomanNumeralFooter.flpgl"
+    PageNumber="1" />
+  <TocEntry
+    Title="Table of Contents"
+    Link="/Content/NSPM/_PrintOnly/PrintTOC.htm"
+    conditions="Default.PrintOnly"
+    StartSection="false"
+    BreakType="chapter"
+    PageNumberFormat="lower-roman"
+    PageNumberReset="reset"
+    PageLayout="/Content/Resources/PageLayouts/RomanNumeralFooter.flpgl"
+    PageNumber="1" />
+  <TocEntry
+    Title="Welcome to the NSPM"
+    Link="/Content/NSPM/00Intro/Intro.htm"
+    conditions="Default.ScreenOnly" />
+  <TocEntry
+    Title="Administrative Remedies"
+    Link="/Content/NSPM/AdminRemedies/AdminRemedies.htm#_Toc410027865"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="reset"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    PageNumberFormat="decimal"
+    PageNumber="1">
+    <TocEntry
+      Title="General Responsibilities"
+      Link="/Content/NSPM/AdminRemedies/GeneralResponsibilities.htm" />
+    <TocEntry
+      Title="Types"
+      Link="/Content/NSPM/AdminRemedies/TypesAdminRemedies.htm"
+      StartSection="true"
+      PageNumberReset="continue"
+      PageNumber="1"
+      SectionNumberReset="reset"
+      SectionNumber="1"
+      VolumeNumberReset="same"
+      ChapterNumberReset="continue"></TocEntry>
+    <TocEntry
+      Title="DOR"
+      Link="/Content/NSPM/AdminRemedies/03-DOR/DOR.htm"
+      StartSection="true"
+      PageNumberReset="reset"
+      PageNumber="1">
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/NSPM/AdminRemedies/03-DOR/ExtremeNEVresults.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+      <TocEntry
+        Title="Outstanding DOR Items"
+        Link="/Content/NSPM/AdminRemedies/03-DOR/Outstanding_DOR_Items.htm"
+        StartSection="false"
+        PageNumberReset="continue"
+        PageNumber="1"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"
+        ChapterNumberReset="continue" />
+      <TocEntry
+        Title="DORs Not Adopted"
+        Link="/Content/NSPM/AdminRemedies/03-DOR/DORs_Not_Adopted.htm"
+        StartSection="false"
+        PageNumberReset="continue"
+        PageNumber="1"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"
+        ChapterNumberReset="continue" />
+      <TocEntry
+        Title="Problem Code Identification Date"
+        Link="/Content/NSPM/AdminRemedies/03-DOR/ProblemCodeIDdate.htm"
+        StartSection="false"
+        PageNumberReset="continue"
+        PageNumber="1"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"
+        ChapterNumberReset="continue" />
+      <TocEntry
+        Title="Require Credit Union to Cease an Activity"
+        Link="/Content/NSPM/AdminRemedies/03-DOR/Require_CU_Cease_Activity.htm"
+        StartSection="false"
+        PageNumberReset="continue"
+        PageNumber="1"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"
+        ChapterNumberReset="continue" />
+      <TocEntry
+        Title="No Longer Applicable DORs"
+        Link="/Content/NSPM/AdminRemedies/03-DOR/Marking_items_No_Longer_Applicable.htm"
+        StartSection="false"
+        PageNumberReset="continue"
+        PageNumber="1"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"
+        ChapterNumberReset="continue" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/NSPM/AdminRemedies/03-DOR/DORProblemResolution.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+        StartSection="false"
+        PageNumberReset="continue"
+        SectionNumberReset="continue"
+        BreakType="none"
+        VolumeNumberReset="continue"
+        ChapterNumberReset="continue"
+        ComputeToc="false"
+        ReplaceMergeNode="false"
+        ChapterNumber="" />
+    </TocEntry>
+    <TocEntry
+      Title="RDL"
+      Link="/Content/NSPM/AdminRemedies/RDL.htm#_Toc410027882"
+      StartSection="true"
+      PageNumberReset="reset"
+      PageNumber="1"></TocEntry>
+    <TocEntry
+      Title="LUA"
+      Link="/Content/NSPM/AdminRemedies/05-LUA/LUA.htm#_Toc410027885"
+      StartSection="true"
+      PageNumberReset="reset"
+      PageNumber="1">
+      <TocEntry
+        Title="FISCU LUAs"
+        Link="/Content/NSPM/AdminRemedies/05-LUA/FISCU_LUAs.htm#_Toc410027887"
+        StartSection="false"
+        PageNumberReset="continue"
+        PageNumber="1"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"
+        ChapterNumberReset="continue" />
+      <TocEntry
+        Title="Add to or Modify an Existing LUA"
+        Link="/Content/NSPM/AdminRemedies/05-LUA/Add_to_or_Modify_Existing_LUA.htm#_Toc410027890"
+        StartSection="false"
+        PageNumberReset="continue"
+        PageNumber="1"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"
+        ChapterNumberReset="continue" />
+      <TocEntry
+        Title="Issue an LUA"
+        Link="/Content/NSPM/AdminRemedies/05-LUA/Issue_LUA.htm#_Toc410027891"
+        StartSection="false"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"
+        ChapterNumberReset="continue">
+        <TocEntry
+          Title="Problem Code Illustration"
+          Link="/Content/NSPM/AdminRemedies/05-LUA/Problem_Code_Illustration.htm"
+          StartSection="false"
+          PageNumberReset="continue"
+          PageNumber="1"
+          SectionNumberReset="continue"
+          VolumeNumberReset="same"
+          ChapterNumberReset="continue" />
+      </TocEntry>
+      <TocEntry
+        Title="Deliver an LUA"
+        Link="/Content/NSPM/AdminRemedies/05-LUA/Deliver_LUA.htm#_Toc410027892"
+        PageNumberReset="continue"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"
+        ChapterNumberReset="continue"
+        StartSection="false" />
+      <TocEntry
+        Title="Supervision Contacts for a Credit Union with an LUA"
+        Link="/Content/NSPM/AdminRemedies/05-LUA/Supervision_Contacts.htm#_Toc410027894"
+        PageNumberReset="continue"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"
+        ChapterNumberReset="continue"
+        StartSection="false" />
+      <TocEntry
+        Title="Terminate an LUA"
+        Link="/Content/NSPM/AdminRemedies/05-LUA/Terminate_LUA.htm#_Toc410027895"
+        PageNumberReset="continue"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"
+        ChapterNumberReset="continue"
+        StartSection="false" />
+      <TocEntry
+        Title="[%=System.LinkedTitle%]"
+        Link="/Content/NSPM/AdminRemedies/05-LUA/LUAProblemResolution.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+    <TocEntry
+      Title="PWL"
+      Link="/Content/NSPM/AdminRemedies/06-PWL/PWL.htm#_Toc410027896"
+      StartSection="true"
+      PageNumberReset="reset"
+      PageNumber="1">
+      <TocEntry
+        Title="Deliver a PWL"
+        Link="/Content/NSPM/AdminRemedies/06-PWL/Deliver_PWL.htm#_Toc410027900"
+        StartSection="false"
+        PageNumberReset="continue"
+        PageNumber="1"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"
+        ChapterNumberReset="continue" />
+      <TocEntry
+        Title="Supervision Contacts for a Credit Union with a PWL"
+        Link="/Content/NSPM/AdminRemedies/06-PWL/SupervisionContacts.htm#_Toc410027901"
+        StartSection="false"
+        PageNumberReset="continue"
+        PageNumber="1"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"
+        ChapterNumberReset="continue" />
+      <TocEntry
+        Title="Terminate a PWL"
+        Link="/Content/NSPM/AdminRemedies/06-PWL/Terminate_PWL.htm#_Toc410027902"
+        StartSection="false"
+        PageNumberReset="continue"
+        PageNumber="1"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"
+        ChapterNumberReset="continue" />
+    </TocEntry>
+    <TocEntry
+      Title="CMP"
+      Link="/Content/NSPM/AdminRemedies/07-CMP/CMP.htm"
+      StartSection="true"
+      PageNumberReset="continue">
+      <TocEntry
+        Title="CMP Waiver"
+        Link="/Content/NSPM/AdminRemedies/07-CMP/CMPwaiver.htm"
+        StartSection="false"
+        PageNumberReset="continue"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"
+        ChapterNumberReset="continue" />
+    </TocEntry>
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/NSPM/AdminRemedies/AdminRemStatusUpdate.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Special Assistance Cases"
+      Link="/Content/NSPM/AdminRemedies/SpecialAssistanceCases.htm#_Toc410027904"
+      StartSection="true"
+      PageNumberReset="reset"
+      PageNumber="1" />
+    <TocEntry
+      Title="Control Reports"
+      Link="/Content/NSPM/AdminRemedies/ControlReports.htm#_Toc410027905"
+      StartSection="true"
+      PageNumberReset="reset"
+      PageNumber="1"></TocEntry>
+    <TocEntry
+      Title="Templates"
+      Link="/Content/NSPM/AdminRemedies/Templates-AdminRemedies.htm"
+      conditions="Default.ScreenOnly,Default.InternalUseOnly" />
+    <TocEntry
+      Title="Templates"
+      Link="/Content/NSPM/AdminRemedies/Templates-AdminRemediesPUBLIConlne.htm"
+      conditions="Default.ScreenOnly,Default.PublicVersion-ONLINE"></TocEntry>
+    <TocEntry
+      Title="Templates"
+      Link="/Content/NSPM/AdminRemedies/Templates-AdminRemediesPRINT.htm"
+      conditions="Default.PrintOnly,Default.InternalUseOnly"
+      StartSection="true"
+      PageNumberReset="continue">
+      <TocEntry
+        Title="RDL Sample"
+        Link="/Content/Resources/_APP-PDFs/APP-AdminRemedies/RDL Sample.pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly"
+        StartSection="false"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"
+        ChapterNumberReset="continue"
+        ComputeToc="false"
+        ReplaceMergeNode="false" />
+      <TocEntry
+        Title="Notify FISCU of Troubled Condition"
+        Link="/Content/Resources/_APP-PDFs/APP-AdminRemedies/Notify FISCU of Troubled Condition.pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly" />
+      <TocEntry
+        Title="Upgrade FISCU from Troubled Condition Status"
+        Link="/Content/Resources/_APP-PDFs/APP-AdminRemedies/Upgrade FISCU from Troubled Condition Status.pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly" />
+      <TocEntry
+        Title="Acknowledge LUA and CAMEL Downgrade"
+        Link="/Content/Resources/_APP-PDFs/APP-AdminRemedies/Acknowledge LUA and CAMEL Downgrade.pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly" />
+      <TocEntry
+        Title="LUA Addendum"
+        Link="/Content/Resources/_APP-PDFs/APP-AdminRemedies/LUA Addendum.pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly" />
+      <TocEntry
+        Title="LUA Cover Letter"
+        Link="/Content/Resources/_APP-PDFs/APP-AdminRemedies/LUA Cover Letter.pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly" />
+      <TocEntry
+        Title="Non-published LUA"
+        Link="/Content/Resources/_APP-PDFs/APP-AdminRemedies/Non-published LUA.pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly" />
+      <TocEntry
+        Title="Remove LUA"
+        Link="/Content/Resources/_APP-PDFs/APP-AdminRemedies/Remove LUA.pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly" />
+      <TocEntry
+        Title="PWL Sample"
+        Link="/Content/Resources/_APP-PDFs/APP-AdminRemedies/PWL Sample.pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly" />
+      <TocEntry
+        Title="BSA-Specific PWL"
+        Link="/Content/Resources/_APP-PDFs/APP-AdminRemedies/BSA-Specific PWL.pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly" />
+      <TocEntry
+        Title="PWL Removal Samples"
+        Link="/Content/Resources/_APP-PDFs/APP-AdminRemedies/PWL Removal Samples.pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly" />
+    </TocEntry>
+    <TocEntry
+      Title="Templates"
+      Link="/Content/NSPM/AdminRemedies/Templates-AdminRemediesPRINT.htm"
+      conditions="Default.PrintOnly,Default.Public {redacted},Default.Redact for Public Use"
+      StartSection="true"
+      PageNumberReset="continue">
+      <TocEntry
+        Title="RDL Sample"
+        Link="/Content/Resources/_APP-PDFs/APP-AdminRemedies/Redacted/RDL Sample_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Public {redacted},Default.Redact for Public Use" />
+      <TocEntry
+        Title="Notify FISCU of Troubled Condition"
+        Link="/Content/Resources/_APP-PDFs/APP-AdminRemedies/Redacted/Notify FISCU of Troubled Condition.pdf"
+        conditions="Default.PrintOnly,Default.Public {redacted},Default.Redact for Public Use" />
+      <TocEntry
+        Title="Upgrade FISCU from Troubled Condition Status"
+        Link="/Content/Resources/_APP-PDFs/APP-AdminRemedies/Redacted/Upgrade FISCU from Troubled Condition Status_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Public {redacted},Default.Redact for Public Use" />
+      <TocEntry
+        Title="Acknowledge LUA and CAMEL Downgrade"
+        Link="/Content/Resources/_APP-PDFs/APP-AdminRemedies/Redacted/Acknowledge LUA and CAMEL Downgrade_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Public {redacted},Default.Redact for Public Use" />
+      <TocEntry
+        Title="LUA Addendum"
+        Link="/Content/Resources/_APP-PDFs/APP-AdminRemedies/Redacted/LUA Addendum_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Public {redacted},Default.Redact for Public Use" />
+      <TocEntry
+        Title="LUA Cover Letter"
+        Link="/Content/Resources/_APP-PDFs/APP-AdminRemedies/Redacted/LUA Cover Letter_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Public {redacted},Default.Redact for Public Use" />
+      <TocEntry
+        Title="Non-published LUA"
+        Link="/Content/Resources/_APP-PDFs/APP-AdminRemedies/Redacted/Non-published LUA_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Public {redacted},Default.Redact for Public Use" />
+      <TocEntry
+        Title="Remove LUA"
+        Link="/Content/Resources/_APP-PDFs/APP-AdminRemedies/Redacted/Remove LUA_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Public {redacted},Default.Redact for Public Use" />
+      <TocEntry
+        Title="PWL Sample"
+        Link="/Content/Resources/_APP-PDFs/APP-AdminRemedies/Redacted/PWL Sample_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Public {redacted},Default.Redact for Public Use" />
+      <TocEntry
+        Title="BSA-Specific PWL"
+        Link="/Content/Resources/_APP-PDFs/APP-AdminRemedies/Redacted/BSA-Specific PWL_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Public {redacted},Default.Redact for Public Use" />
+      <TocEntry
+        Title="PWL Removal Samples"
+        Link="/Content/Resources/_APP-PDFs/APP-AdminRemedies/Redacted/PWL Removal Samples_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Public {redacted},Default.Redact for Public Use" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Audits and Recordkeeping"
+    Link="/Content/NSPM/AuditsRecordkeeping/00-Audits_Recordkeeping.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue">
+    <TocEntry
+      Title="Field Staff Responsibilities"
+      Link="/Content/NSPM/AuditsRecordkeeping/01-Field_Staff_Responsibilities.htm"
+      StartSection="true"
+      PageNumberReset="reset"
+      PageNumber="1" />
+    <TocEntry
+      Title="Audit Firms Located Outside the Geographic Area"
+      Link="/Content/NSPM/AuditsRecordkeeping/02-Audit_Firms_Outside_Geo_Area.htm"
+      StartSection="true"
+      PageNumberReset="reset"
+      PageNumber="1" />
+    <TocEntry
+      Title="Audit Report Review"
+      Link="/Content/NSPM/AuditsRecordkeeping/02-AuditReportReview.htm" />
+    <TocEntry
+      Title="Unacceptable Audits and Member Account Verifications"
+      Link="/Content/NSPM/AuditsRecordkeeping/03-Unacceptable_Audits_and_Member_Account_Verifications.htm"
+      StartSection="true"
+      PageNumberReset="reset"
+      PageNumber="1" />
+    <TocEntry
+      Title="Audits by Licensed Independent Accountants"
+      Link="/Content/NSPM/AuditsRecordkeeping/04-Audits_by_Licensed_Independent_Accountants.htm"
+      StartSection="true"
+      PageNumberReset="reset"
+      PageNumber="1" />
+    <TocEntry
+      Title="Significant Recordkeeping Concerns"
+      Link="/Content/NSPM/AuditsRecordkeeping/05-Significant_Recordkeeping_Concern.htm"
+      StartSection="true"
+      PageNumberReset="reset"
+      PageNumber="1" />
+    <TocEntry
+      Title="Addressing Bond Claims"
+      Link="/Content/NSPM/AuditsRecordkeeping/06-AddressBondClaim.htm"
+      StartSection="true"
+      PageNumberReset="reset"
+      PageNumber="1" />
+    <TocEntry
+      Title="Determine Bondability Status"
+      Link="/Content/NSPM/AuditsRecordkeeping/07-DetermineBondabilityStatus.htm"
+      StartSection="true"
+      PageNumberReset="reset"
+      PageNumber="1" />
+  </TocEntry>
+  <TocEntry
+    Title="BSA Enforcement"
+    Link="/Content/NSPM/BSAenforcement/BSA_Enforcement.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue">
+    <TocEntry
+      Title="Suspicious Activity Report"
+      Link="/Content/NSPM/BSAenforcement/01-SARs/SAR.htm"
+      StartSection="true"
+      PageNumberReset="reset"
+      PageNumber="1"></TocEntry>
+    <TocEntry
+      Title="Requesting CTR, SAR, and DOEP History"
+      Link="/Content/NSPM/BSAenforcement/02-Request_CTR_SAR_DOEP/Request_CTR_SAR_DOEP.htm"
+      StartSection="true"
+      PageNumberReset="reset"
+      PageNumber="1"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      ChapterNumberReset="continue" />
+    <TocEntry
+      Title="BSA Enforcement"
+      Link="/Content/NSPM/BSAenforcement/03-BSA_Enforcement/BSA_Enforcement.htm"
+      StartSection="true"
+      PageNumberReset="reset"
+      PageNumber="1" />
+    <TocEntry
+      Title="BSA Violations"
+      Link="/Content/NSPM/BSAenforcement/04-BSA_Violations/BSA_Violations.htm"
+      StartSection="true"
+      PageNumberReset="reset"
+      PageNumber="1"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      ChapterNumberReset="continue">
+      <TocEntry
+        Title="Significant BSA Violations"
+        Link="/Content/NSPM/BSAenforcement/04-BSA_Violations/Significant_BSA_Violations.htm"
+        StartSection="false"
+        PageNumberReset="reset"
+        PageNumber="1" />
+      <TocEntry
+        Title="Data Quality Violations"
+        Link="/Content/NSPM/BSAenforcement/04-BSA_Violations/Data_Quality_Violations.htm"
+        StartSection="false"
+        PageNumberReset="reset"
+        PageNumber="1" />
+      <TocEntry
+        Title="BSA Citations"
+        Link="/Content/NSPM/BSAenforcement/04-BSA_Violations/BSA_Citations/BSA_Citations.htm"
+        StartSection="false"
+        PageNumberReset="reset"
+        PageNumber="1"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"
+        ChapterNumberReset="continue"
+        BreakType="none"
+        ComputeToc="false"
+        ReplaceMergeNode="false">
+        <TocEntry
+          Title="CIP"
+          Link="/Content/NSPM/BSAenforcement/04-BSA_Violations/BSA_Citations/CIP.htm"
+          StartSection="true"
+          PageNumberReset="reset"
+          PageNumber="1"
+          ChapterNumberReset="reset"
+          SectionNumberReset="continue"
+          SectionNumber=""
+          VolumeNumberReset="same"
+          ChapterNumber="1"
+          ChapterNumberFormat="text" />
+        <TocEntry
+          Title="CTR, CMIR, and FBAR"
+          Link="/Content/NSPM/BSAenforcement/04-BSA_Violations/BSA_Citations/CTR_CMIR_FBAR.htm"
+          StartSection="false"
+          PageNumberReset="continue"
+          PageNumber="1"
+          SectionNumberReset="continue"
+          SectionNumber=""
+          VolumeNumberReset="same"
+          ChapterNumberReset="continue" />
+        <TocEntry
+          Title="Information Sharing"
+          Link="/Content/NSPM/BSAenforcement/04-BSA_Violations/BSA_Citations/InfoSharing.htm"
+          StartSection="false"
+          PageNumberReset="continue"
+          PageNumber="1" />
+        <TocEntry
+          Title="Monetary Instruments"
+          Link="/Content/NSPM/BSAenforcement/04-BSA_Violations/BSA_Citations/MonetaryInstruments.htm"
+          StartSection="false"
+          PageNumberReset="continue"
+          PageNumber="1" />
+        <TocEntry
+          Title="Overall Compliance Program"
+          Link="/Content/NSPM/BSAenforcement/04-BSA_Violations/BSA_Citations/OverallCompliance.htm"
+          StartSection="false"
+          PageNumberReset="continue"
+          PageNumber="1" />
+        <TocEntry
+          Title="Record Retention Periods"
+          Link="/Content/NSPM/BSAenforcement/04-BSA_Violations/BSA_Citations/Record_Retention.htm"
+          StartSection="false"
+          PageNumberReset="continue"
+          PageNumber="1" />
+        <TocEntry
+          Title="Records to be Maintained"
+          Link="/Content/NSPM/BSAenforcement/04-BSA_Violations/BSA_Citations/Records_to_Maintain.htm"
+          StartSection="false"
+          PageNumberReset="continue"
+          PageNumber="1" />
+        <TocEntry
+          Title="Suspicious Activity Reports"
+          Link="/Content/NSPM/BSAenforcement/04-BSA_Violations/BSA_Citations/SuspiciousActivity.htm"
+          StartSection="false"
+          PageNumberReset="continue"
+          PageNumber="1" />
+      </TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="AIRES FinCEN.doc"
+      Link="/Content/NSPM/BSAenforcement/05-AIRES_FinCEN/AIRES_FinCEN.htm"
+      StartSection="true"
+      PageNumberReset="continue"
+      PageNumber="1"
+      SectionNumberReset="continue"
+      SectionNumber="6"
+      VolumeNumberReset="continue"
+      ChapterNumberReset="continue" />
+    <TocEntry
+      Title="Resolution of Significant BSA Violations"
+      Link="/Content/NSPM/BSAenforcement/07-Resolution_Significant_BSA_Violation/Resolution_Significant_BSA_Violation.htm"
+      StartSection="true"
+      PageNumberReset="reset"
+      PageNumber="1">
+      <TocEntry
+        Title="Federal Credit Unions"
+        Link="/Content/NSPM/BSAenforcement/07-Resolution_Significant_BSA_Violation/FCU.htm"
+        StartSection="false"
+        PageNumberReset="reset"
+        PageNumber="1" />
+      <TocEntry
+        Title="Federally Insured, State-Chartered Credit Unions"
+        Link="/Content/NSPM/BSAenforcement/07-Resolution_Significant_BSA_Violation/FISCU.htm"
+        StartSection="false"
+        PageNumberReset="reset"
+        PageNumber="1" />
+    </TocEntry>
+    <TocEntry
+      Title="Reporting the Resolution of a BSA Violation"
+      Link="/Content/NSPM/BSAenforcement/08-Report_Resolution_of_BSA_Violation/Report_Resolution_of_BSA_Violation.htm"
+      StartSection="true"
+      PageNumberReset="reset"
+      PageNumber="1" />
+    <TocEntry
+      Title="BSA Control Reports"
+      Link="/Content/NSPM/BSAenforcement/09-BSA_Control_Reports/BSA_Control_Reports.htm"
+      StartSection="true"
+      PageNumberReset="reset"
+      PageNumber="1"></TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Change of Officials"
+    Link="/Content/NSPM/ChangeOfficials/ChangeOfficials.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue">
+    <TocEntry
+      Title="DOS Responsibilities"
+      Link="/Content/NSPM/ChangeOfficials/Troubled_Newly_Chartered_CU/DOS_Responsibilities.htm"
+      StartSection="true"
+      PageNumberReset="continue"
+      SectionNumberReset="reset"
+      SectionNumber="1"
+      VolumeNumberReset="same"
+      ChapterNumberReset="continue"
+      ReplaceMergeNode="false"
+      PageNumber="1" />
+    <TocEntry
+      Title="Field Staff Responsibilities"
+      Link="/Content/NSPM/ChangeOfficials/Troubled_Newly_Chartered_CU/Field_Responsibilities3.htm"
+      StartSection="true"
+      PageNumber="1" />
+    <TocEntry
+      Title="Affected Credit Unions"
+      Link="/Content/NSPM/ChangeOfficials/Troubled_Newly_Chartered_CU/Affected_CUs.htm"
+      StartSection="true"
+      PageNumber="1" />
+    <TocEntry
+      Title="Required Information"
+      Link="/Content/NSPM/ChangeOfficials/Troubled_Newly_Chartered_CU/Required_Info.htm"
+      StartSection="true"
+      PageNumber="1" />
+    <TocEntry
+      Title="Approval Process"
+      Link="/Content/NSPM/ChangeOfficials/Troubled_Newly_Chartered_CU/ApprovalProcess.htm"
+      StartSection="true"
+      PageNumber="1" />
+    <TocEntry
+      Title="Waivering 30 Day Notification Requirement"
+      Link="/Content/NSPM/ChangeOfficials/Troubled_Newly_Chartered_CU/Waive_NotificationRequirement.htm"
+      StartSection="true"
+      PageNumber="1" />
+    <TocEntry
+      Title="Grounds for Denial"
+      Link="/Content/NSPM/ChangeOfficials/Troubled_Newly_Chartered_CU/Grounds_for_Denial.htm"
+      StartSection="true"
+      PageNumber="1" />
+    <TocEntry
+      Title="Reconsideration and Appeal Requests"
+      Link="/Content/NSPM/ChangeOfficials/Troubled_Newly_Chartered_CU/Reconsideration_or_Appeal.htm"
+      StartSection="true"
+      PageNumber="1" />
+    <TocEntry
+      Title="Application Withdrawal"
+      Link="/Content/NSPM/ChangeOfficials/Troubled_Newly_Chartered_CU/Withdrawal_Application.htm"
+      StartSection="true"
+      PageNumber="1" />
+    <TocEntry
+      Title="Templates"
+      Link="/Content/NSPM/ChangeOfficials/Templates-ChangeOfficials.htm"
+      conditions="Default.ScreenOnly,Default.InternalUseOnly"
+      StartSection="true"
+      PageNumber="1"></TocEntry>
+    <TocEntry
+      Title="Templates"
+      Link="/Content/NSPM/ChangeOfficials/Templates-ChangeOfficialsPUBLIConline.htm"
+      conditions="Default.PublicVersion-ONLINE,Default.ScreenOnly" />
+    <TocEntry
+      Title="Templates"
+      Link="/Content/NSPM/ChangeOfficials/Templates-ChangeOfficialsPRINT.htm"
+      conditions="Default.PrintOnly,Default.InternalUseOnly">
+      <TocEntry
+        Title="Respond to Incomplete Application"
+        Link="/Content/Resources/_APP-PDFs/APP-ChangeOfOfficials/Respond to Incomplete Application.pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly" />
+      <TocEntry
+        Title="Acknowledge Complete Application"
+        Link="/Content/Resources/_APP-PDFs/APP-ChangeOfOfficials/Acknowledge Complete Application.pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly" />
+      <TocEntry
+        Title="Waive 30-Day Notification Requirement"
+        Link="/Content/Resources/_APP-PDFs/APP-ChangeOfOfficials/Waive 30-Day Notification Requirement.pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly" />
+      <TocEntry
+        Title="Approve Change of Officials"
+        Link="/Content/Resources/_APP-PDFs/APP-ChangeOfOfficials/Approve Change of Officials.pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly" />
+      <TocEntry
+        Title="Deny Change of Officials Due In Part to Adverse Credit"
+        Link="/Content/Resources/_APP-PDFs/APP-ChangeOfOfficials/Deny Change of Officials Due In Part to Adverse Credit.pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly" />
+      <TocEntry
+        Title="Deny Change of Officials Due In Part to Adverse Credit - Applicant Letter"
+        Link="/Content/Resources/_APP-PDFs/APP-ChangeOfOfficials/Deny Change of Officials Due In Part to Adverse Credit - Applicant Letter.pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly" />
+      <TocEntry
+        Title="Deny Change of Officials Not Due to Adverse Credit"
+        Link="/Content/Resources/_APP-PDFs/APP-ChangeOfOfficials/Deny Change of Officials Not Due to Adverse Credit.pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly" />
+      <TocEntry
+        Title="Deny Change of Officials Not Due to Adverse Credit - Applicant Letter"
+        Link="/Content/Resources/_APP-PDFs/APP-ChangeOfOfficials/Deny Change of Officials Not Due to Adverse Credit - Applicant Letter.pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly" />
+      <TocEntry
+        Title="Pre-Adverse Action Disclosure Letter"
+        Link="/Content/Resources/_APP-PDFs/APP-ChangeOfOfficials/Pre-Adverse Action Disclosure Letter.pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly" />
+      <TocEntry
+        Title="Acknowledge Request to Withdraw Application"
+        Link="/Content/Resources/_APP-PDFs/APP-ChangeOfOfficials/Acknowledge Request to Withdraw Application.pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly" />
+    </TocEntry>
+    <TocEntry
+      Title="Templates"
+      Link="/Content/NSPM/ChangeOfficials/Templates-ChangeOfficialsPRINT.htm"
+      conditions="Default.PrintOnly,Default.Redact for Public Use"
+      StartSection="false">
+      <TocEntry
+        Title="Respond to Incomplete Application"
+        Link="/Content/Resources/_APP-PDFs/APP-ChangeOfOfficials/Redacted/Respond to Incomplete Application_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Redact for Public Use" />
+      <TocEntry
+        Title="Acknowledge Complete Application"
+        Link="/Content/Resources/_APP-PDFs/APP-ChangeOfOfficials/Redacted/Acknowledge Complete Application_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Redact for Public Use" />
+      <TocEntry
+        Title="Waive 30-Day Notification Requirement"
+        Link="/Content/Resources/_APP-PDFs/APP-ChangeOfOfficials/Redacted/Waive 30-Day Notification Requirement_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Redact for Public Use" />
+      <TocEntry
+        Title="Approve Change of Officials"
+        Link="/Content/Resources/_APP-PDFs/APP-ChangeOfOfficials/Redacted/Approve Change of Officials_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Redact for Public Use" />
+      <TocEntry
+        Title="Deny Change of Officials Due In Part to Adverse Credit"
+        Link="/Content/Resources/_APP-PDFs/APP-ChangeOfOfficials/Redacted/Deny Change of Officials Due In Part to Adverse Credit_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Redact for Public Use" />
+      <TocEntry
+        Title="Deny Change of Officials Due In Part to Adverse Credit - Applicant Letter"
+        Link="/Content/Resources/_APP-PDFs/APP-ChangeOfOfficials/Redacted/Deny Change of Officials Due In Part to Adverse Credit - Applicant Letter_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Redact for Public Use" />
+      <TocEntry
+        Title="Deny Change of Officials Not Due to Adverse Credit"
+        Link="/Content/Resources/_APP-PDFs/APP-ChangeOfOfficials/Redacted/Deny Change of Officials Not Due to Adverse Credit_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Redact for Public Use" />
+      <TocEntry
+        Title="Deny Change of Officials Not Due to Adverse Credit - Applicant Letter"
+        Link="/Content/Resources/_APP-PDFs/APP-ChangeOfOfficials/Redacted/Deny Change of Officials Not Due to Adverse Credit - Applicant Letter_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Redact for Public Use" />
+      <TocEntry
+        Title="Pre-Adverse Action Disclosure Letter"
+        Link="/Content/Resources/_APP-PDFs/APP-ChangeOfOfficials/Redacted/Pre-Adverse Action Disclosure Letter_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Redact for Public Use" />
+      <TocEntry
+        Title="Acknowledge Request to Withdraw Application"
+        Link="/Content/Resources/_APP-PDFs/APP-ChangeOfOfficials/Redacted/Acknowledge Request to Withdraw Application_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Redact for Public Use" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Corporate Credit Unions"
+    Link="/Content/NSPM/CorporateProgram/00-Corporate_Program.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue">
+    <TocEntry
+      Title="Corporate Regulatory Waivers"
+      Link="/Content/NSPM/CorporateProgram/03-Corporate_Regulatory_Waivers.htm"
+      StartSection="true"
+      PageNumberReset="continue"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      ChapterNumberReset="continue"
+      PageNumber="1" />
+    <TocEntry
+      Title="Corporate Requests for Expanded Authorities"
+      Link="/Content/NSPM/CorporateProgram/04-Corporate_Request_Expanded_Authorities.htm"
+      StartSection="true"
+      PageNumberReset="continue"
+      PageNumber="1">
+      <TocEntry
+        Title="Request Requirements"
+        Link="/Content/NSPM/CorporateProgram/04-Request_Expanded_Authorities/Request_Requirements.htm"
+        StartSection="false"
+        PageNumber="1" />
+      <TocEntry
+        Title="Evaluating a Request for Expanded Authority"
+        Link="/Content/NSPM/CorporateProgram/04-Request_Expanded_Authorities/EvaluateRequest.htm"
+        StartSection="false"
+        PageNumber="1" />
+      <TocEntry
+        Title="Approving a Request for Expanded Authority"
+        Link="/Content/NSPM/CorporateProgram/04-Request_Expanded_Authorities/ApproveRequest.htm"
+        StartSection="false"
+        PageNumber="1" />
+      <TocEntry
+        Title="After Approving a Request for Expanded Authority"
+        Link="/Content/NSPM/CorporateProgram/04-Request_Expanded_Authorities/After_Approving.htm"
+        StartSection="false"
+        PageNumber="1" />
+    </TocEntry>
+    <TocEntry
+      Title="Investment Action Plans"
+      Link="/Content/NSPM/CorporateProgram/05-Investment_Action_Plans.htm"
+      StartSection="true"
+      PageNumberReset="continue"
+      PageNumber="1">
+      <TocEntry
+        Title="After Approving an IAP"
+        Link="/Content/NSPM/CorporateProgram/05-InvestmentActionPlans/After_Approving_IAP.htm"
+        StartSection="false"
+        PageNumber="1" />
+    </TocEntry>
+    <TocEntry
+      Title="Capital Restoration Plans"
+      Link="/Content/NSPM/CorporateProgram/07-CRP.htm"
+      StartSection="true"
+      PageNumberReset="continue"
+      PageNumber="1"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      ChapterNumberReset="continue">
+      <TocEntry
+        Title="Processing a Capital Restoration Plan"
+        Link="/Content/NSPM/CorporateProgram/07-CRPs/ProcessCRP-PRINT.htm"
+        conditions="Default.PrintOnly">
+        <TocEntry
+          Title="Processing a CRP"
+          Link="/Content/NSPM/CorporateProgram/07-CRPs/ProcessCRP.htm"
+          StartSection="true"
+          PageNumber="1"
+          PageNumberReset="continue"
+          SectionNumberReset="reset"
+          VolumeNumberReset="same"
+          ChapterNumberReset="continue"
+          SectionNumber="B"
+          SectionNumberFormat="upper-alpha"
+          ComputeToc="false"
+          ReplaceMergeNode="false" />
+        <TocEntry
+          Title="Failure to Submit a CRP"
+          Link="/Content/NSPM/CorporateProgram/07-CRPs/Failure_to_Submit.htm"
+          StartSection="false"
+          PageNumber="1" />
+        <TocEntry
+          Title="Monitoring a CRP"
+          Link="/Content/NSPM/CorporateProgram/07-CRPs/MonitorCRP.htm"
+          StartSection="false"
+          PageNumber="1" />
+        <TocEntry
+          Title="CRPs that are No Longer Needed"
+          Link="/Content/NSPM/CorporateProgram/07-CRPs/CRP_No_Longer_Needed.htm"
+          StartSection="false"
+          PageNumber="1" />
+        <TocEntry
+          Title="Invoking a DSA or OCA for a Critically Undercapitalized Credit Union"
+          Link="/Content/NSPM/CorporateProgram/07-CRPs/Invoke_DSA_and_OCA.htm"
+          StartSection="false"
+          PageNumber="1" />
+      </TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="Corporate CUSOs"
+      Link="/Content/NSPM/CorporateProgram/08-Corporate_CUSOs.htm"
+      StartSection="true"
+      PageNumberReset="continue"
+      PageNumber="1">
+      <TocEntry
+        Title="Activity Approval Requests"
+        Link="/Content/NSPM/CorporateProgram/08-Corporate_CUSOs/ActivityApprovalRequest.htm"
+        StartSection="false"
+        PageNumber="1" />
+      <TocEntry
+        Title="Monitoring"
+        Link="/Content/NSPM/CorporateProgram/08-Corporate_CUSOs/Monitoring.htm"
+        StartSection="false"
+        PageNumber="1" />
+    </TocEntry>
+    <TocEntry
+      Title="Prompt Corrective Action"
+      Link="/Content/NSPM/CorporateProgram/06-PCA.htm"
+      StartSection="true"
+      PageNumberReset="continue"
+      PageNumber="1">
+      <TocEntry
+        Title="Category Classifications"
+        Link="/Content/NSPM/CorporateProgram/PCA/CategoryClassifications1.htm"
+        StartSection="false" />
+      <TocEntry
+        Title="Reclassification Based on Correction"
+        Link="/Content/NSPM/CorporateProgram/PCA/Reclassification_Based_on_Correction.htm"
+        StartSection="false" />
+      <TocEntry
+        Title="Lowering a Classification"
+        Link="/Content/NSPM/CorporateProgram/PCA/Lowering_Classification.htm"
+        StartSection="false" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="CUSO Registry"
+    Link="/Content/NSPM/CUSOregistry/CUSOregistry.htm"
+    StartSection="false"
+    PageNumberReset="continue"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue">
+    <TocEntry
+      Title="Responsibilities"
+      Link="/Content/NSPM/CUSOregistry/Responsibilities.htm"
+      StartSection="true"
+      BreakType="chapter"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Templates"
+      Link="/Content/NSPM/CUSOregistry/Templates-CUSOregistry.htm"
+      conditions="Default.InternalUseOnly,Default.ScreenOnly" />
+    <TocEntry
+      Title="Templates"
+      Link="/Content/NSPM/CUSOregistry/Templates-CUSOregPUBLIConline.htm"
+      conditions="Default.PublicVersion-ONLINE,Default.ScreenOnly" />
+    <TocEntry
+      Title="Templates"
+      Link="/Content/NSPM/CUSOregistry/Templates-CUSOregistryPRINT.htm"
+      conditions="Default.InternalUseOnly,Default.PrintOnly">
+      <TocEntry
+        Title="CUSO Registry Reporting Concern"
+        Link="/Content/Resources/_APP-PDFs/APP-CUSOreviews/CUSO Registry Reporting Concern.pdf"
+        conditions="Default.InternalUseOnly,Default.PrintOnly" />
+      <TocEntry
+        Title="CUSO Registry Examination Follow-Up"
+        Link="/Content/Resources/_APP-PDFs/APP-CUSOreviews/CUSO Registry Examination Follow-Up.pdf"
+        conditions="Default.InternalUseOnly,Default.PrintOnly" />
+      <TocEntry
+        Title="CUSO Registry RDL to CU Owners or Lenders"
+        Link="/Content/Resources/_APP-PDFs/APP-CUSOreviews/CUSO Registry Letter to CU Owners or Lenders.pdf"
+        conditions="Default.InternalUseOnly,Default.PrintOnly"
+        StartSection="false" />
+    </TocEntry>
+    <TocEntry
+      Title="Templates"
+      Link="/Content/NSPM/CUSOregistry/Templates-CUSOregistryPRINT.htm"
+      conditions="Default.PrintOnly,Default.Redact for Public Use">
+      <TocEntry
+        Title="CUSO Registry Reporting Concern"
+        Link="/Content/Resources/_APP-PDFs/APP-CUSOreviews/CUSO Registry Reporting Concern.pdf"
+        conditions="Default.PrintOnly,Default.Redact for Public Use" />
+      <TocEntry
+        Title="CUSO Registry Examination Follow-Up"
+        Link="/Content/Resources/_APP-PDFs/APP-CUSOreviews/CUSO Registry Examination Follow-Up.pdf"
+        conditions="Default.PrintOnly,Default.Redact for Public Use"></TocEntry>
+      <TocEntry
+        Title="CUSO Registry RDL to CU Owners or Lenders"
+        Link="/Content/Resources/_APP-PDFs/APP-CUSOreviews/CUSO Registry Letter to CU Owners or Lenders.pdf"
+        conditions="Default.PrintOnly,Default.Redact for Public Use"
+        StartSection="false" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="CUSO Reviews"
+    Link="/Content/NSPM/CUSOreviews/CUSO_Reviews.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue">
+    <TocEntry
+      Title="General Responsibilities"
+      Link="/Content/NSPM/CUSOreviews/1-GeneralResponsibilities.htm"
+      StartSection="true"
+      PageNumberReset="continue"></TocEntry>
+    <TocEntry
+      Title="Selecting, Scheduling and Resourcing"
+      Link="/Content/NSPM/CUSOreviews/2-Selecting.htm"
+      StartSection="true"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Scope of Review"
+      Link="/Content/NSPM/CUSOreviews/3-Scope.htm"
+      StartSection="true"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Report and Workpapers"
+      Link="/Content/NSPM/CUSOreviews/4-Review_Report.htm"
+      StartSection="true"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Draft Review Reports"
+      Link="/Content/NSPM/CUSOreviews/5-Distribute_Draft_Report.htm"
+      StartSection="true"
+      PageNumberReset="continue"></TocEntry>
+    <TocEntry
+      Title="Final Review Reports"
+      Link="/Content/NSPM/CUSOreviews/6-Distribute_Final_Report.htm"
+      StartSection="true"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Management Conference"
+      Link="/Content/NSPM/CUSOreviews/7-MgmtConference.htm"
+      StartSection="true"
+      PageNumberReset="continue"></TocEntry>
+    <TocEntry
+      Title="Follow-Up Reviews"
+      Link="/Content/NSPM/CUSOreviews/7-CUSOFollowUp.htm" />
+    <TocEntry
+      Title="Report Maintenance"
+      Link="/Content/NSPM/CUSOreviews/8-Report_Maintenance.htm"
+      StartSection="true"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="SSAs &amp; CUSO Reviews"
+      Link="/Content/NSPM/CUSOreviews/9-SSA_CUSO_Reviews.htm"
+      StartSection="true"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Templates"
+      Link="/Content/NSPM/CUSOreviews/Templates-CUSOReviews.htm"
+      conditions="Default.ScreenOnly,Default.InternalUseOnly"
+      StartSection="true"
+      PageNumberReset="continue"></TocEntry>
+    <TocEntry
+      Title="Templates"
+      Link="/Content/NSPM/CUSOreviews/Templates-CUSOReviewsPUBLIConline.htm"
+      conditions="Default.PublicVersion-ONLINE,Default.ScreenOnly" />
+    <TocEntry
+      Title="Templates"
+      Link="/Content/NSPM/CUSOreviews/Templates-CUSOReviewsPRINT.htm"
+      conditions="Default.PrintOnly,Default.InternalUseOnly">
+      <TocEntry
+        Title="CUSO Pre-Review Letter"
+        Link="/Content/Resources/_APP-PDFs/APP-CUSOreviews/CUSO Pre-Review Letter.pdf"
+        conditions="Default.InternalUseOnly,Default.PrintOnly" />
+      <TocEntry
+        Title="CUSO_Review_Scope_Workbook"
+        Link="/Content/Resources/_APP-PDFs/APP-CUSOreviews/CUSO_Review_Scope_Workbook.pdf"
+        conditions="Default.InternalUseOnly,Default.PrintOnly" />
+      <TocEntry
+        Title="CUSO Financial Template"
+        Link="/Content/Resources/_APP-PDFs/APP-CUSOreviews/CUSO Financial Template.pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly" />
+      <TocEntry
+        Title="CUSO Review Report Template"
+        Link="/Content/Resources/_APP-PDFs/APP-CUSOreviews/CUSO Review Report Template.pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly" />
+      <TocEntry
+        Title="Draft Report Cover Letter to CUSO"
+        Link="/Content/Resources/_APP-PDFs/APP-CUSOreviews/Draft Report Cover Letter to CUSO.pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly" />
+      <TocEntry
+        Title="Draft Report Cover Letter to SSA"
+        Link="/Content/Resources/_APP-PDFs/APP-CUSOreviews/Draft Report Cover Letter to SSA.pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly" />
+      <TocEntry
+        Title="Final Report Cover Letter to CUSO"
+        Link="/Content/Resources/_APP-PDFs/APP-CUSOreviews/Final Report Cover Letter to CUSO.pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly" />
+      <TocEntry
+        Title="Final Report Cover Letter to Investors and Lenders"
+        Link="/Content/Resources/_APP-PDFs/APP-CUSOreviews/Final Report Cover Letter to Investors and Lenders.pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly" />
+      <TocEntry
+        Title="Final Report Cover Letter to SSA"
+        Link="/Content/Resources/_APP-PDFs/APP-CUSOreviews/Final Report Cover Letter to SSA.pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly" />
+    </TocEntry>
+    <TocEntry
+      Title="Templates"
+      Link="/Content/NSPM/CUSOreviews/Templates-CUSOReviewsPRINT.htm"
+      conditions="Default.PrintOnly,Default.Redact for Public Use">
+      <TocEntry
+        Title="CUSO Pre-Review Letter_Redacted"
+        Link="/Content/Resources/_APP-PDFs/APP-CUSOreviews/Redacted/CUSO Pre-Review Letter_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Redact for Public Use" />
+      <TocEntry
+        Title="CUSO_Review_Scope_Workbook_Redacted"
+        Link="/Content/Resources/_APP-PDFs/APP-CUSOreviews/Redacted/CUSO_Review_Scope_Workbook_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Redact for Public Use" />
+      <TocEntry
+        Title="CUSO Financial Template"
+        Link="/Content/Resources/_APP-PDFs/APP-CUSOreviews/Redacted/CUSO Financial Template_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Redact for Public Use" />
+      <TocEntry
+        Title="CUSO Review Report Template"
+        Link="/Content/Resources/_APP-PDFs/APP-CUSOreviews/Redacted/CUSO Review Report Template_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Redact for Public Use" />
+      <TocEntry
+        Title="Draft Report Cover Letter to CUSO"
+        Link="/Content/Resources/_APP-PDFs/APP-CUSOreviews/Redacted/Draft Report Cover Letter to CUSO_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Redact for Public Use" />
+      <TocEntry
+        Title="Draft Report Cover Letter to SSA"
+        Link="/Content/Resources/_APP-PDFs/APP-CUSOreviews/Redacted/Draft Report Cover Letter to SSA_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Redact for Public Use" />
+      <TocEntry
+        Title="Final Report Cover Letter to CUSO"
+        Link="/Content/Resources/_APP-PDFs/APP-CUSOreviews/Redacted/Final Report Cover Letter to CUSO_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Redact for Public Use" />
+      <TocEntry
+        Title="Final Report Cover Letter to Investors and Lenders"
+        Link="/Content/Resources/_APP-PDFs/APP-CUSOreviews/Redacted/Final Report Cover Letter to Investors and Lenders_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Redact for Public Use" />
+      <TocEntry
+        Title="Final Report Cover Letter to SSA"
+        Link="/Content/Resources/_APP-PDFs/APP-CUSOreviews/Redacted/Final Report Cover Letter to SSA_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Redact for Public Use" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Derivatives Authority"
+    Link="/Content/NSPM/Derivatives/Derivatives Authority.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue">
+    <TocEntry
+      Title="Roles and Responsibilities"
+      Link="/Content/NSPM/Derivatives/RolesResponsibilities/RolesResponsibilities.htm"
+      StartSection="true"
+      PageNumberReset="continue">
+      <TocEntry
+        Title="E&amp;I Responsibilities"
+        Link="/Content/NSPM/Derivatives/RolesResponsibilities/Roles-EI.htm" />
+      <TocEntry
+        Title="Field Staff Responsibilities"
+        Link="/Content/NSPM/Derivatives/RolesResponsibilities/Roles-FieldOffice.htm" />
+      <TocEntry
+        Title="Field Office Director Responsibilities"
+        Link="/Content/NSPM/Derivatives/RolesResponsibilities/Roles-FieldOfficeDirector.htm" />
+      <TocEntry
+        Title="Review Panel Responsibilities"
+        Link="/Content/NSPM/Derivatives/RolesResponsibilities/Roles-ReviewPanel.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Application Review"
+      Link="/Content/NSPM/Derivatives/ApplicationReview/ApplicationReview.htm"
+      StartSection="true"
+      PageNumberReset="continue">
+      <TocEntry
+        Title="Step 1: Log and Acknowledge"
+        Link="/Content/NSPM/Derivatives/ApplicationReview/Step1.htm" />
+      <TocEntry
+        Title="Step 2: Confirm Eligibility, Safety and Soundness"
+        Link="/Content/NSPM/Derivatives/ApplicationReview/Step2.htm" />
+      <TocEntry
+        Title="Step 3: Establish Review Panel and Assign Application"
+        Link="/Content/NSPM/Derivatives/ApplicationReview/Step3.htm" />
+      <TocEntry
+        Title="Step 4: Review Application"
+        Link="/Content/NSPM/Derivatives/ApplicationReview/Step4.htm" />
+      <TocEntry
+        Title="Step 5: Approve or Deny"
+        Link="/Content/NSPM/Derivatives/ApplicationReview/Step5.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Application Appeal"
+      Link="/Content/NSPM/Derivatives/Derivatives Application Appeal.htm"
+      StartSection="true"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Notification (FISCU only)"
+      Link="/Content/NSPM/Derivatives/Derivative_Notification_Procedure_FISCUs.htm"
+      StartSection="true"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Monitoring and Controls"
+      Link="/Content/NSPM/Derivatives/Derivatives Monitoring and Controls.htm"
+      StartSection="true"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Templates"
+      Link="/Content/NSPM/Derivatives/Templates-Derivatives.htm"
+      conditions="Default.ScreenOnly,Default.InternalUseOnly"
+      StartSection="true"
+      PageNumberReset="continue"></TocEntry>
+    <TocEntry
+      Title="Templates"
+      Link="/Content/NSPM/Derivatives/Templates-DerivativesPUBLIConline.htm"
+      conditions="Default.PublicVersion-ONLINE,Default.ScreenOnly" />
+    <TocEntry
+      Title="Templates"
+      Link="/Content/NSPM/Derivatives/Templates-DerivativesPRINT.htm"
+      conditions="Default.PrintOnly,Default.InternalUseOnly">
+      <TocEntry
+        Title="Derivatives Information Administration Log (DIAL)"
+        Link="/Content/Resources/_APP-PDFs/APP-Derivatives/Derivatives Information Administration Log (DIAL).pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly" />
+      <TocEntry
+        Title="Derivatives Authority Qualitative Review Checklist"
+        Link="/Content/Resources/_APP-PDFs/APP-Derivatives/Derivatives Authority Qualitative Review Checklist.pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly" />
+      <TocEntry
+        Title="Respond to Incomplete Application for Derivatives Authority"
+        Link="/Content/Resources/_APP-PDFs/APP-Derivatives/Respond to Incomplete Application for Derivatives Authority.pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly" />
+      <TocEntry
+        Title="Acknowledge Interim Application for Derivatives Authority"
+        Link="/Content/Resources/_APP-PDFs/APP-Derivatives/Acknowledge Interim Application for Derivatives Authority.pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly" />
+      <TocEntry
+        Title="Approve Derivatives Authority (Interim)"
+        Link="/Content/Resources/_APP-PDFs/APP-Derivatives/Approve Derivatives Authority (Interim).pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly" />
+      <TocEntry
+        Title="Acknowledge Notification of Readiness (Final Application for Derivatives Authority)"
+        Link="/Content/Resources/_APP-PDFs/APP-Derivatives/Acknowledge Notification of Readiness (Final Application for Derivatives Authority).pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly" />
+      <TocEntry
+        Title="Approve Derivatives Authority (Final)"
+        Link="/Content/Resources/_APP-PDFs/APP-Derivatives/Approve Derivatives Authority (Final).pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly" />
+      <TocEntry
+        Title="Deny Application for Derivatives Authority"
+        Link="/Content/Resources/_APP-PDFs/APP-Derivatives/Deny Application for Derivatives Authority.pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly" />
+      <TocEntry
+        Title="NCUA Notification of FISCU Derivatives Activity (FISCUs only)"
+        Link="/Content/Resources/_APP-PDFs/APP-Derivatives/NCUA Notification of FISCU Derivatives Activity (FISCUs only).pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly" />
+      <TocEntry
+        Title="Acknowledge Appeal"
+        Link="/Content/Resources/_APP-PDFs/APP-Derivatives/Acknowledge Appeal.pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly" />
+      <TocEntry
+        Title="Deny Appeal"
+        Link="/Content/Resources/_APP-PDFs/APP-Derivatives/Deny Appeal.pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly" />
+    </TocEntry>
+    <TocEntry
+      Title="Templates"
+      Link="/Content/NSPM/Derivatives/Templates-DerivativesPRINT.htm"
+      conditions="Default.PrintOnly,Default.Redact for Public Use">
+      <TocEntry
+        Title="Derivatives Information Administration Log (DIAL)"
+        Link="/Content/Resources/_APP-PDFs/APP-Derivatives/Redacted/Derivatives Information Administration Log (DIAL)_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Redact for Public Use"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"
+        ChapterNumberReset="continue" />
+      <TocEntry
+        Title="Derivatives Authority Qualitative Review Checklist"
+        Link="/Content/Resources/_APP-PDFs/APP-Derivatives/Redacted/Derivatives Authority Qualitative Review Checklist_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Redact for Public Use"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"
+        ChapterNumberReset="continue" />
+      <TocEntry
+        Title="Respond to Incomplete Application for Derivatives Authority"
+        Link="/Content/Resources/_APP-PDFs/APP-Derivatives/Redacted/Respond to Incomplete Application for Derivatives Authority_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Redact for Public Use"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"
+        ChapterNumberReset="continue" />
+      <TocEntry
+        Title="Acknowledge Interim Application for Derivatives Authority"
+        Link="/Content/Resources/_APP-PDFs/APP-Derivatives/Redacted/Acknowledge Interim Application for Derivatives Authority_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Redact for Public Use"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"
+        ChapterNumberReset="continue" />
+      <TocEntry
+        Title="Approve Derivatives Authority (Interim)"
+        Link="/Content/Resources/_APP-PDFs/APP-Derivatives/Redacted/Approve Derivatives Authority (Interim)_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Redact for Public Use"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"
+        ChapterNumberReset="continue" />
+      <TocEntry
+        Title="Acknowledge Notification of Readiness (Final Application for Derivatives Authority)"
+        Link="/Content/Resources/_APP-PDFs/APP-Derivatives/Redacted/Acknowledge Notification of Readiness (Final Application for Derivatives Authority)_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Redact for Public Use"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"
+        ChapterNumberReset="continue" />
+      <TocEntry
+        Title="Approve Derivatives Authority (Final)"
+        Link="/Content/Resources/_APP-PDFs/APP-Derivatives/Redacted/Approve Derivatives Authority (Final)_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Redact for Public Use"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"
+        ChapterNumberReset="continue" />
+      <TocEntry
+        Title="Deny Application for Derivatives Authority"
+        Link="/Content/Resources/_APP-PDFs/APP-Derivatives/Redacted/Deny Application for Derivatives Authority_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Redact for Public Use"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"
+        ChapterNumberReset="continue" />
+      <TocEntry
+        Title="NCUA Notification of FISCU Derivatives Activity (FISCUs only)"
+        Link="/Content/Resources/_APP-PDFs/APP-Derivatives/Redacted/NCUA Notification of FISCU Derivatives Activity (FISCUs only).pdf"
+        conditions="Default.PrintOnly,Default.Redact for Public Use"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"
+        ChapterNumberReset="continue" />
+      <TocEntry
+        Title="Acknowledge Appeal"
+        Link="/Content/Resources/_APP-PDFs/APP-Derivatives/Redacted/Acknowledge Appeal_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Redact for Public Use"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"
+        ChapterNumberReset="continue" />
+      <TocEntry
+        Title="Deny Appeal"
+        Link="/Content/Resources/_APP-PDFs/APP-Derivatives/Redacted/Deny Appeal_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Redact for Public Use"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"
+        ChapterNumberReset="continue" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/NSPM/DishonestyFraud/00-DishonestFraud.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    StartSection="false"
+    BreakType="chapter"
+    PageNumberReset="continue">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/NSPM/DishonestyFraud/01-ConfirmedFraud.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      StartSection="true"
+      PageNumberReset="continue"
+      PageNumber="1"
+      BreakType="none" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/NSPM/DishonestyFraud/02-FraudIndicatorRpt.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      StartSection="true"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/NSPM/DishonestyFraud/03-FraudHotline.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      StartSection="true"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/NSPM/DishonestyFraud/Templates-Fraud.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      conditions="Default.InternalUseOnly,Default.ScreenOnly"></TocEntry>
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/NSPM/DishonestyFraud/Templates-FraudPRINT.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      conditions="Default.PrintOnly,Default.InternalUseOnly"
+      StartSection="true"
+      PageNumberReset="continue">
+      <TocEntry
+        Title="CU-BOD-FraudDiscoveryChecklist"
+        Link="/Content/Resources/_APP-PDFs/APP-DishonestyFraud/FraudDiscoveryChecklist-BOD.pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly" />
+      <TocEntry
+        Title="ExaminerFraudDiscoveryChecklist"
+        Link="/Content/Resources/_APP-PDFs/APP-DishonestyFraud/FraudDiscoveryChecklist-Examiner.pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly" />
+      <TocEntry
+        Title="DatabaseSearchRequestForm"
+        Link="/Content/Resources/_APP-PDFs/APP-DishonestyFraud/DatabaseSearchRequestForm.pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly" />
+      <TocEntry
+        Title="FraudChronology"
+        Link="/Content/Resources/_APP-PDFs/APP-DishonestyFraud/FraudChronology.pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly" />
+      <TocEntry
+        Title="FraudReport"
+        Link="/Content/Resources/_APP-PDFs/APP-DishonestyFraud/FraudReport.pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly" />
+    </TocEntry>
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/NSPM/DishonestyFraud/Templates-FraudPUBLIConline.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      conditions="Default.PrintOnly,Default.Redact for Public Use"
+      ReplaceMergeNode="false">
+      <TocEntry
+        Title="CU-BOD-FraudDiscoveryChecklist"
+        Link="/Content/Resources/_APP-PDFs/APP-DishonestyFraud/Redacted/FraudDiscoveryChecklist-BOD.pdf"
+        conditions="Default.PrintOnly,Default.Redact for Public Use" />
+      <TocEntry
+        Title="ExaminerFraudDiscoveryChecklist_Redacted"
+        Link="/Content/Resources/_APP-PDFs/APP-DishonestyFraud/Redacted/ExaminerFraudDiscoveryChecklist_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Redact for Public Use" />
+      <TocEntry
+        Title="DatabaseSearchRequestForm_Redacted"
+        Link="/Content/Resources/_APP-PDFs/APP-DishonestyFraud/Redacted/DatabaseSearchRequestForm_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Redact for Public Use" />
+      <TocEntry
+        Title="FraudChronology_Redacted"
+        Link="/Content/Resources/_APP-PDFs/APP-DishonestyFraud/Redacted/FraudChronology_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Redact for Public Use" />
+      <TocEntry
+        Title="FraudReport_Redacted"
+        Link="/Content/Resources/_APP-PDFs/APP-DishonestyFraud/Redacted/FraudReport_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Redact for Public Use" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="District Management"
+    Link="/Content/NSPM/DistrictMgmt/00-DistrictManagement.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue">
+    <TocEntry
+      Title="General Supervision Responsibilities"
+      Link="/Content/NSPM/DistrictMgmt/02-General_Responsibilities.htm"
+      StartSection="true"
+      PageNumberReset="continue">
+      <TocEntry
+        Title="E&amp;I Responsibilities"
+        Link="/Content/NSPM/DistrictMgmt/02-Responsibilities/EI.htm" />
+      <TocEntry
+        Title="Regional Director Responsibilities"
+        Link="/Content/NSPM/DistrictMgmt/02-Responsibilities/RD.htm" />
+      <TocEntry
+        Title="Supervisor Responsibilities"
+        Link="/Content/NSPM/DistrictMgmt/02-Responsibilities/Supervisor.htm" />
+      <TocEntry
+        Title="Field Staff Responsibilities"
+        Link="/Content/NSPM/DistrictMgmt/02-Responsibilities/Field_Staff.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Budgeting and Scheduling Exams"
+      Link="/Content/NSPM/DistrictMgmt/01-Budget_and_Schedule_Exams.htm"
+      StartSection="true"
+      PageNumberReset="continue">
+      <TocEntry
+        Title="Budgeting Process"
+        Link="/Content/NSPM/DistrictMgmt/01-Budget_and_Schedule_Exams/BudgetingProcess.htm" />
+      <TocEntry
+        Title="Scheduling Contacts"
+        Link="/Content/NSPM/DistrictMgmt/01-Budget_and_Schedule_Exams/Scheduling_Exams_and_Supervision_Contacts.htm" />
+      <TocEntry
+        Title="NCUA Examination Scheduling Program"
+        Link="/Content/NSPM/DistrictMgmt/01-Budget_and_Schedule_Exams/Exam_Scheduling_Program.htm">
+        <TocEntry
+          Title="Responsibilities"
+          Link="/Content/NSPM/DistrictMgmt/01-Budget_and_Schedule_Exams/Responsibilities.htm"
+          StartSection="true"
+          PageNumberReset="continue" />
+      </TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="Administrative Record"
+      Link="/Content/NSPM/DistrictMgmt/03-AdministrativeRecord.htm"
+      StartSection="true"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Supervision Chronology Report"
+      Link="/Content/NSPM/DistrictMgmt/04-SupervisionChronologyReport.htm"
+      StartSection="true"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Administrative Actions for Troubled Credit Unions"
+      Link="/Content/NSPM/DistrictMgmt/05-AdminActions_Troubled_CU.htm"
+      StartSection="true"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Notice of Troubled Condition"
+      Link="/Content/NSPM/DistrictMgmt/06-Notice_of_Troubled_Condition/FCUs.htm"
+      StartSection="true"
+      PageNumberReset="continue">
+      <TocEntry
+        Title="FISCUs"
+        Link="/Content/NSPM/DistrictMgmt/06-Notice_of_Troubled_Condition/FISCUs.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Call Report, Trending Analysis, and RATE"
+      Link="/Content/NSPM/DistrictMgmt/07-Call_Report_Trending_Analysis_RATE.htm"
+      StartSection="true"
+      PageNumberReset="continue">
+      <TocEntry
+        Title="DOS Responsibilities"
+        Link="/Content/NSPM/DistrictMgmt/07-Call_Report_Trending_Analysis_RATE/DOS_Responsibilities.htm" />
+      <TocEntry
+        Title="Supervisor Responsibilities"
+        Link="/Content/NSPM/DistrictMgmt/07-Call_Report_Trending_Analysis_RATE/Supervisor_Responsibilities1.htm" />
+      <TocEntry
+        Title="Field Staff Responsibilities"
+        Link="/Content/NSPM/DistrictMgmt/07-Call_Report_Trending_Analysis_RATE/Field_Responsibilities.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Administrative Items"
+      Link="/Content/NSPM/DistrictMgmt/08-AdministrativeItems.htm"
+      StartSection="true"
+      PageNumberReset="continue">
+      <TocEntry
+        Title="AIRES: Deleting Files"
+        Link="/Content/NSPM/DistrictMgmt/08-AdministrativeItems/AIRES-DeleteFiles.htm" />
+      <TocEntry
+        Title="AIRES: File Size Limit"
+        Link="/Content/NSPM/DistrictMgmt/08-AdministrativeItems/AIRES-FileSizeLimit.htm" />
+      <TocEntry
+        Title="AIRES: Minimal Upload"
+        Link="/Content/NSPM/DistrictMgmt/08-AdministrativeItems/AIRES-MinimalUpload.htm" />
+      <TocEntry
+        Title="AIRES: Required Workpapers"
+        Link="/Content/NSPM/DistrictMgmt/08-AdministrativeItems/AIRES-RequiredWorkpapers.htm" />
+      <TocEntry
+        Title="Delivering a Report to Credit Union Officials"
+        Link="/Content/NSPM/DistrictMgmt/08-AdministrativeItems/Deliver_Report_CU_Officials.htm" />
+      <TocEntry
+        Title="Documented Secondary CAMEL Review"
+        Link="/Content/NSPM/DistrictMgmt/08-AdministrativeItems/DSCR.htm" />
+      <TocEntry
+        Title="EIC Rotation Limits"
+        Link="/Content/NSPM/DistrictMgmt/08-AdministrativeItems/EIC_Rotation_Limit.htm" />
+      <TocEntry
+        Title="Electronic and Hard Copy Field Files"
+        Link="/Content/NSPM/DistrictMgmt/08-AdministrativeItems/Electronic_Hard_Copy_Files.htm" />
+      <TocEntry
+        Title="Electronic Copies of Reports"
+        Link="/Content/NSPM/DistrictMgmt/08-AdministrativeItems/Electronic Copies of Reports.htm" />
+      <TocEntry
+        Title="Timeframe to Complete Exam/Supervision Contact"
+        Link="/Content/NSPM/DistrictMgmt/08-AdministrativeItems/Timeframe_to_Complete_Contact.htm" />
+      <TocEntry
+        Title="Exam/Supervision Completion Date and AIRES Upload Requirements"
+        Link="/Content/NSPM/DistrictMgmt/08-AdministrativeItems/Exam_Supervision_Completion_Date.htm" />
+      <TocEntry
+        Title="Limiting Exams in Process"
+        Link="/Content/NSPM/DistrictMgmt/08-AdministrativeItems/Limit_Exams_in_Process.htm" />
+      <TocEntry
+        Title="Notifying a Credit Union of a Contact"
+        Link="/Content/NSPM/DistrictMgmt/08-AdministrativeItems/Notify_CU_of_Contact.htm" />
+      <TocEntry
+        Title="Team Member Responsibilities"
+        Link="/Content/NSPM/DistrictMgmt/08-AdministrativeItems/Team_Member_Responsibilities.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Confidential Section"
+      Link="/Content/NSPM/DistrictMgmt/09-ConfidentialSection.htm"
+      StartSection="true"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Joint Conferences and Exit Meetings"
+      Link="/Content/NSPM/DistrictMgmt/10-Joint_Conferences_and_Exit_Meetings.htm"
+      StartSection="true"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Communicating Directly with a Credit Union"
+      Link="/Content/NSPM/DistrictMgmt/11-Communicating_Directly_with_CU.htm"
+      StartSection="true"
+      PageNumberReset="continue">
+      <TocEntry
+        Title="Writing Guidelines"
+        Link="/Content/NSPM/DistrictMgmt/11-Communicating_Directly_with_CU/WritingGuidelines.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Communicating with Law Enforcement, Outside Audit Firms, or Other Federal Agencies"
+      Link="/Content/NSPM/DistrictMgmt/12-Communicating_with_Law.htm"
+      StartSection="true"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Supervising a New Credit Union"
+      Link="/Content/NSPM/DistrictMgmt/13-Supervising_New_CU.htm"
+      StartSection="true"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Critical Case Credit Unions"
+      Link="/Content/NSPM/DistrictMgmt/14-Critical_Case_CUs.htm"
+      StartSection="true"
+      PageNumberReset="continue">
+      <TocEntry
+        Title="Developing a Critical Case List"
+        Link="/Content/NSPM/DistrictMgmt/14-Critical_Case_CUs/Developing_Critical_Case_List.htm" />
+      <TocEntry
+        Title="Critical Case Meetings"
+        Link="/Content/NSPM/DistrictMgmt/14-Critical_Case_CUs/Critical_Case_Meetings.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Control Reports"
+      Link="/Content/NSPM/DistrictMgmt/15-Control_Reports.htm"
+      StartSection="true"
+      PageNumberReset="continue">
+      <TocEntry
+        Title="E&amp;I Control Reports"
+        Link="/Content/NSPM/DistrictMgmt/15-ControlReports/EI.htm" />
+      <TocEntry
+        Title="Regional Control Reports"
+        Link="/Content/NSPM/DistrictMgmt/15-ControlReports/Regional.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Develop and Issue Guidance"
+      Link="/Content/NSPM/DistrictMgmt/Develop_Issue_Guidance.htm"
+      StartSection="true"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Templates"
+      Link="/Content/NSPM/DistrictMgmt/Templates-DistrictMgmt.htm"
+      conditions="Default.ScreenOnly,Default.InternalUseOnly"
+      StartSection="true"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Templates"
+      Link="/Content/NSPM/DistrictMgmt/Templates-DistrictMgmtPUBLIConline.htm"
+      conditions="Default.PublicVersion-ONLINE,Default.ScreenOnly" />
+    <TocEntry
+      Title="Templates"
+      Link="/Content/NSPM/DistrictMgmt/Templates-DistrictMgmtPRINT.htm"
+      conditions="Default.PrintOnly,Default.InternalUseOnly">
+      <TocEntry
+        Title="Supervision Chronology Report"
+        Link="/Content/Resources/_APP-PDFs/APP-DistrictMgmt/Supervision Chronology Report.pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly" />
+      <TocEntry
+        Title="Team Memo"
+        Link="/Content/Resources/_APP-PDFs/APP-DistrictMgmt/Team Memo.pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly"></TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="Templates"
+      Link="/Content/NSPM/DistrictMgmt/Templates-DistrictMgmtPRINT.htm"
+      conditions="Default.PrintOnly,Default.Redact for Public Use">
+      <TocEntry
+        Title="Supervision Chronology Report"
+        Link="/Content/Resources/_APP-PDFs/APP-DistrictMgmt/Supervision Chronology Report_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Redact for Public Use" />
+      <TocEntry
+        Title="Team Memo"
+        Link="/Content/Resources/_APP-PDFs/APP-DistrictMgmt/Team Memo.pdf"
+        conditions="Default.PrintOnly,Default.Redact for Public Use"></TocEntry>
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Exam Complaints"
+    Link="/Content/NSPM/ExamComplaints/Examination Complaints.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue">
+    <TocEntry
+      Title="Exam Complaint Investigation Goals"
+      Link="/Content/NSPM/ExamComplaints/Complaint_Investigation_Goals.htm"
+      StartSection="true"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Roles and Responsibilities"
+      Link="/Content/NSPM/ExamComplaints/Responsibilities.htm"
+      StartSection="true"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Templates"
+      Link="/Content/NSPM/ExamComplaints/Templates-ExamComplaints.htm"
+      conditions="Default.ScreenOnly,Default.InternalUseOnly"
+      StartSection="true"
+      PageNumberReset="continue"></TocEntry>
+    <TocEntry
+      Title="Templates"
+      Link="/Content/NSPM/ExamComplaints/Templates-ExamComplaintsPUBLIConline.htm"
+      conditions="Default.PublicVersion-ONLINE,Default.ScreenOnly" />
+    <TocEntry
+      Title="Templates"
+      Link="/Content/NSPM/ExamComplaints/Templates-ExamComplaintsPRINT.htm"
+      conditions="Default.PrintOnly,Default.InternalUseOnly">
+      <TocEntry
+        Title="Acknowledge Examination Complaint"
+        Link="/Content/Resources/_APP-PDFs/APP-ExamComplaints/Acknowledge Examination Complaint.pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly" />
+      <TocEntry
+        Title="Regional Summary – Exam Appeals and Complaints"
+        Link="/Content/Resources/_APP-PDFs/APP-ExamComplaints/Regional Summary – Exam Appeals and Complaints.pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly" />
+      <TocEntry
+        Title="Respond to Examination Complaint (sample)"
+        Link="/Content/Resources/_APP-PDFs/APP-ExamComplaints/Respond to Examination Complaint (sample).pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly" />
+    </TocEntry>
+    <TocEntry
+      Title="Templates"
+      Link="/Content/NSPM/ExamComplaints/Templates-ExamComplaintsPRINT.htm"
+      conditions="Default.PrintOnly,Default.Redact for Public Use">
+      <TocEntry
+        Title="Acknowledge Examination Complaint"
+        Link="/Content/Resources/_APP-PDFs/APP-ExamComplaints/Redacted/Acknowledge Examination Complaint_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Redact for Public Use" />
+      <TocEntry
+        Title="Regional Summary – Exam Appeals and Complaints"
+        Link="/Content/Resources/_APP-PDFs/APP-ExamComplaints/Redacted/Regional Summary – Exam Appeals and Complaints_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Redact for Public Use" />
+      <TocEntry
+        Title="Respond to Examination Complaint (sample)"
+        Link="/Content/Resources/_APP-PDFs/APP-ExamComplaints/Redacted/Respond to Examination Complaint (sample)_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Redact for Public Use" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Exam Reports"
+    Link="/Content/NSPM/ExamReports/ExamReports.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"></TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/NSPM/FairLending/FairLendingProgram.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/NSPM/FairLending/1-RolesRespons.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      StartSection="true"
+      PageNumberReset="continue"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      ChapterNumberReset="continue"
+      ReplaceMergeNode="false" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/NSPM/FairLending/2-FCU-Selection.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      StartSection="true"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/NSPM/FairLending/3-RequestedParticipation.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      StartSection="true"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/NSPM/FairLending/4-OnSiteExams.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      StartSection="true"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/NSPM/FairLending/5-OffSiteExams.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      StartSection="true"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/NSPM/FairLending/6-ContactDocumentation.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      StartSection="true"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/NSPM/FairLending/7-ContactFollowUp.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      StartSection="true"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/NSPM/FairLending/8-AdminRemedies.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      StartSection="true"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/NSPM/FairLending/9-AdministrativeItems.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      StartSection="true"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/NSPM/FairLending/10-QualityAssurance.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      StartSection="true"
+      PageNumberReset="continue" />
+  </TocEntry>
+  <TocEntry
+    Title="FCUs"
+    Link="/Content/NSPM/FCUprogram/00-FCU_Program.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue">
+    <TocEntry
+      Title="Examination Planning"
+      Link="/Content/NSPM/FCUprogram/01-ExamPlanning.htm"
+      StartSection="true"
+      PageNumberReset="continue">
+      <TocEntry
+        Title="Pre-Exam Planning Hours"
+        Link="/Content/NSPM/FCUprogram/01-ExamPlanning/PreExamHours.htm" />
+      <TocEntry
+        Title="Pre-Exam Planning Procedures"
+        Link="/Content/NSPM/FCUprogram/01-ExamPlanning/PreExamProcedures.htm" />
+      <TocEntry
+        Title="Preliminary Risk Assessment"
+        Link="/Content/NSPM/FCUprogram/01-ExamPlanning/PrelimAssessment.htm" />
+      <TocEntry
+        Title="AIRES Exam Scope (Scope Module)"
+        Link="/Content/NSPM/FCUprogram/01-ExamPlanning/AIRES_Exam_Scope_Module.htm">
+        <TocEntry
+          Title="Examples of Sufficient Scoping"
+          Link="/Content/NSPM/FCUprogram/01-ExamPlanning/SufficientScoping.htm" />
+      </TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="Membership Data Information"
+      Link="/Content/NSPM/FCUprogram/02-Membership_Data_Info.htm"
+      StartSection="true"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="FCU Examinations (WCC 10)"
+      Link="/Content/NSPM/FCUprogram/03-FCU_Exams.htm"
+      StartSection="true"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="FCU Supervision Contacts"
+      Link="/Content/NSPM/FCUprogram/04-FCU_Supervision_Contacts.htm"
+      StartSection="true"
+      PageNumberReset="continue"
+      BreakType="none"
+      ReplaceMergeNode="Unchecked"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      ChapterNumberReset="continue">
+      <TocEntry
+        Title="Follow-Up Exams for Troubled or Problem FCUs (WCC 22)"
+        Link="/Content/NSPM/FCUprogram/04-FCU_Supervision_Contacts/FollowUp_Troubled.htm" />
+      <TocEntry
+        Title="Onsite Supervision Contacts (WCC 22)"
+        Link="/Content/NSPM/FCUprogram/04-FCU_Supervision_Contacts/Onsite_Supervision.htm">
+        <TocEntry
+          Title="Onsite Supervision Contact Documentation"
+          Link="/Content/NSPM/FCUprogram/04-FCU_Supervision_Contacts/Onsite_Supervision_Documentation.htm"
+          StartSection="false"
+          PageNumberReset="continue" />
+      </TocEntry>
+      <TocEntry
+        Title="Offsite Supervision Contacts (WCC 27)"
+        Link="/Content/NSPM/FCUprogram/04-FCU_Supervision_Contacts/Offsite_Supervision.htm">
+        <TocEntry
+          Title="Offsite Supervision Contact Documentation"
+          Link="/Content/NSPM/FCUprogram/04-FCU_Supervision_Contacts/Offsite_Supervision_Documentation.htm"
+          StartSection="false"
+          PageNumberReset="continue" />
+      </TocEntry>
+      <TocEntry
+        Title="Monthly Financial Monitoring (WCC 27)"
+        Link="/Content/NSPM/FCUprogram/04-FCU_Supervision_Contacts/Monthly_Financial_Monitoring.htm" />
+      <TocEntry
+        Title="Processing of Call Reports and Trending (WCC 20)"
+        Link="/Content/NSPM/FCUprogram/04-FCU_Supervision_Contacts/Processing_Call_Reports_and_Trending.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="OCFPA Contacts"
+      Link="/Content/NSPM/FCUprogram/05-OCP_Regional_Office_Exams_Supervision.htm"
+      StartSection="true"
+      PageNumberReset="continue">
+      <TocEntry
+        Title="FCU Selection for Fair Lending Review"
+        Link="/Content/NSPM/FCUprogram/05-OCP_Contacts/Selection_for_Fair_Lending_Review.htm" />
+      <TocEntry
+        Title="Fair Lending Examination and Supervision Contact Follow Up"
+        Link="/Content/NSPM/FCUprogram/05-OCP_Contacts/Fair_Lending_Followup.htm" />
+      <TocEntry
+        Title="Field Support of OCFPA Examinations and Supervision Contacts"
+        Link="/Content/NSPM/FCUprogram/05-OCP_Contacts/Field Support of OCP Examinations and Supervision Contacts.htm" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="FISCUs"
+    Link="/Content/NSPM/FISCUprogram/00-FISCU_Program.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue">
+    <TocEntry
+      Title="Examination Planning"
+      Link="/Content/NSPM/FISCUprogram/01-ExamPlanning/01-ExamPlanning.htm"
+      ChapterNumberReset="reset"
+      StartSection="false"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same">
+      <TocEntry
+        Title="Pre-Exam Planning Hours"
+        Link="/Content/NSPM/FISCUprogram/01-ExamPlanning/PreExamHours.htm"
+        ChapterNumberReset="reset"
+        StartSection="false"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same" />
+      <TocEntry
+        Title="Pre-Exam Planning Procedures"
+        Link="/Content/NSPM/FISCUprogram/01-ExamPlanning/PreExamProcedures.htm" />
+      <TocEntry
+        Title="Preliminary Risk Assessment"
+        Link="/Content/NSPM/FISCUprogram/01-ExamPlanning/PrelimAssessment.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Communication with an SSA"
+      Link="/Content/NSPM/FISCUprogram/01-Communication_with_SSA.htm"
+      StartSection="true"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="NCUA FISCU Program"
+      Link="/Content/NSPM/FISCUprogram/02-FISCU_Program.htm"
+      StartSection="true"
+      PageNumberReset="continue">
+      <TocEntry
+        Title="NCUA Onsite Presence Criteria"
+        Link="/Content/NSPM/FISCUprogram/02-FISCU_Program/NCUA_Onsite_Criteria.htm" />
+      <TocEntry
+        Title="Examination and Supervision Planning and Scoping"
+        Link="/Content/NSPM/FISCUprogram/02-FISCU_Program/Exam_Supervision_Planning_Scoping.htm" />
+      <TocEntry
+        Title="Preliminary Risk Assessment" />
+      <TocEntry
+        Title="AIRES Scope"
+        Link="/Content/NSPM/FISCUprogram/02-FISCU_Program/AIRES_Scope.htm" />
+      <TocEntry
+        Title="Joint Scoping"
+        Link="/Content/NSPM/FISCUprogram/02-FISCU_Program/NCUA SSA Joint Scoping.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Types of FISCU Exams"
+      Link="/Content/NSPM/FISCUprogram/03-Types_of_FISCU_Exams.htm"
+      StartSection="false"
+      PageNumberReset="continue">
+      <TocEntry
+        Title="Insurance Reviews (WCC 11)"
+        Link="/Content/NSPM/FISCUprogram/03-Types_of_FISCU_Exams/Insurance_Review.htm"
+        ChapterNumberReset="reset"
+        StartSection="true"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"
+        PageNumberReset="continue" />
+      <TocEntry
+        Title="Joint Exams (WCC 11)"
+        Link="/Content/NSPM/FISCUprogram/03-Types_of_FISCU_Exams/Joint_Exam.htm"
+        ChapterNumberReset="reset"
+        SectionNumberReset="continue"
+        VolumeNumberReset="same"
+        StartSection="false" />
+    </TocEntry>
+    <TocEntry
+      Title="Supervision Contacts"
+      Link="/Content/NSPM/FISCUprogram/04-SupervisionContacts.htm"
+      StartSection="true"
+      PageNumberReset="continue">
+      <TocEntry
+        Title="Follow-Up Exams for Troubled/Problem FISCU (WCC 23)"
+        Link="/Content/NSPM/FISCUprogram/04-Supervision_Contacts/FollowUp_Exam_Troubled.htm" />
+      <TocEntry
+        Title="Onsite Supervision Contacts (WCC 23)"
+        Link="/Content/NSPM/FISCUprogram/04-Supervision_Contacts/Onsite_Supervision_Contacts.htm" />
+      <TocEntry
+        Title="Offsite Supervision Contacts (WCC 28)"
+        Link="/Content/NSPM/FISCUprogram/04-Supervision_Contacts/Offsite_Supervision_Contacts.htm" />
+      <TocEntry
+        Title="Monthly Financial Monitoring (WCC 28)"
+        Link="/Content/NSPM/FISCUprogram/04-Supervision_Contacts/Monthly_Financial_Monitoring.htm" />
+      <TocEntry
+        Title="Reviews of SSA Exams (WCC 26)"
+        Link="/Content/NSPM/FISCUprogram/04-Supervision_Contacts/Review_SSA_Exam.htm" />
+      <TocEntry
+        Title="Processing Call Reports and Trending for aFISCU (WCC 21)"
+        Link="/Content/NSPM/FISCUprogram/04-Supervision_Contacts/Process_Call_Reports_Trending.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Completing a Review of a State Exam (WCC 26)"
+      Link="/Content/NSPM/FISCUprogram/05-Review_State_Exam.htm"
+      StartSection="true"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Requesting More Info from an SSA"
+      Link="/Content/NSPM/FISCUprogram/06-Request_Info_from_SSA.htm"
+      StartSection="true"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Joint Conferences"
+      Link="/Content/NSPM/FISCUprogram/07-JointConferences.htm"
+      StartSection="true"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Issuing a Report"
+      Link="/Content/NSPM/FISCUprogram/08-IssueReport.htm"
+      StartSection="true"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="AIRES Uploads"
+      Link="/Content/NSPM/FISCUprogram/09-AIRES_Upload.htm"
+      StartSection="true"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Credit Union Enforcement Action"
+      Link="/Content/NSPM/FISCUprogram/10-CU_Enforcement_Action.htm"
+      StartSection="true"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Consumer Compliance"
+      Link="/Content/NSPM/FISCUprogram/11-Consumer_Compliance_Program.htm"
+      StartSection="true"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="NCUA Responsibilities Regarding Compliance Regulations in Federally Insured, State-Chartered Credit Unions"
+      Link="/Content/NSPM/FISCUprogram/12-NCUA_Responsibilities_ComplianceRegs.htm"
+      StartSection="true"
+      PageNumberReset="continue" />
+  </TocEntry>
+  <TocEntry
+    Title="Prompt Corrective Action"
+    Link="/Content/NSPM/PCA/PCA.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue">
+    <TocEntry
+      Title="PCA Classification"
+      Link="/Content/NSPM/PCA/02-PCA_Classification/PCA_Classification.htm"
+      StartSection="true"
+      PageNumberReset="continue">
+      <TocEntry
+        Title="Net Worth Category Classification"
+        Link="/Content/NSPM/PCA/02-PCA_Classification/Net_Worth_Category_Classifications.htm" />
+      <TocEntry
+        Title="Effective Date of Classification"
+        Link="/Content/NSPM/PCA/02-PCA_Classification/EffectiveDate.htm" />
+      <TocEntry
+        Title="Reclassification Based on Correction"
+        Link="/Content/NSPM/PCA/02-PCA_Classification/Reclassification.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Earnings and Reserve Transfer Requirements for “Adequately Capitalized” or Lower FICUs"
+      Link="/Content/NSPM/PCA/03-Earnings_Reserve_Transfer_Requirements/Earnings_Reserve_Transfer_Requirements.htm"
+      StartSection="true"
+      PageNumberReset="continue">
+      <TocEntry
+        Title="Field Staff Responsibilities"
+        Link="/Content/NSPM/PCA/03-Earnings_Reserve_Transfer_Requirements/Examiner_Responsibilities3.htm" />
+      <TocEntry
+        Title="Regional Office Review"
+        Link="/Content/NSPM/PCA/03-Earnings_Reserve_Transfer_Requirements/Regional_Office_Review.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="NWRP and RBP"
+      Link="/Content/NSPM/PCA/04-NWRPs-RBPs/NWRP_and_RBP.htm"
+      StartSection="true"
+      PageNumberReset="continue">
+      <TocEntry
+        Title="Processing FCU NWRPs/RBPs"
+        Link="/Content/NSPM/PCA/04-NWRPs-RBPs/FCU_Processing.htm" />
+      <TocEntry
+        Title="Processing FISCU NWRP/RBPs"
+        Link="/Content/NSPM/PCA/04-NWRPs-RBPs/FISCU_Processing.htm" />
+      <TocEntry
+        Title="Failure to Submit an NWRP/RBP"
+        Link="/Content/NSPM/PCA/04-NWRPs-RBPs/Failure_to_Submit.htm" />
+      <TocEntry
+        Title="Monitoring NWRPs and RBPs after Approval"
+        Link="/Content/NSPM/PCA/04-NWRPs-RBPs/Monitoring.htm" />
+      <TocEntry
+        Title="NWRP/RBP that are No Longer Needed"
+        Link="/Content/NSPM/PCA/04-NWRPs-RBPs/NWRP RBP No Longer Needed.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Invoking a DSA and OCA for a Critically Undercapitalized Credit Union"
+      Link="/Content/NSPM/PCA/5-Invoke_DSAs_and_OSAs.htm"
+      StartSection="true"
+      PageNumberReset="continue"></TocEntry>
+    <TocEntry
+      Title="Applications for PCA Risk Mitigation Credit"
+      Link="/Content/NSPM/PCA/06-Application for PCA Risk Mitigation Credit/Application for PCA Risk Mitigation Credit.htm"
+      StartSection="true"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Monitoring and Controls"
+      Link="/Content/NSPM/PCA/7-Monitoring_and_Controls.htm"
+      StartSection="true"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Templates"
+      Link="/Content/NSPM/PCA/Templates-PCA.htm"
+      conditions="Default.ScreenOnly,Default.InternalUseOnly"
+      StartSection="true"
+      PageNumberReset="continue"
+      BreakType="none"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      ChapterNumberReset="continue"></TocEntry>
+    <TocEntry
+      Title="Templates"
+      Link="/Content/NSPM/PCA/Templates-PCAPUBLIConline.htm"
+      conditions="Default.PublicVersion-ONLINE,Default.ScreenOnly" />
+    <TocEntry
+      Title="Templates"
+      Link="/Content/NSPM/PCA/Templates-PCA-PRINT.htm"
+      conditions="Default.PrintOnly,Default.InternalUseOnly"
+      StartSection="true"
+      SectionNumberReset="continue"
+      VolumeNumberReset="same"
+      ChapterNumberReset="continue"
+      BreakType="none"
+      PageNumberReset="continue">
+      <TocEntry
+        Title="Quarterly PCA Tracking Report"
+        Link="/Content/Resources/_APP-PDFs/APP-PCA/Quarterly PCA Tracking Report.pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly" />
+      <TocEntry
+        Title="Regional Summary of DSA Board Approval (EI format)"
+        Link="/Content/Resources/_APP-PDFs/APP-PCA/Regional Summary of DSA Board Approval (EI format).pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly" />
+      <TocEntry
+        Title="Regional Summary of DSA RD Approval"
+        Link="/Content/Resources/_APP-PDFs/APP-PCA/Regional Summary of DSA RD Approval.pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly" />
+      <TocEntry
+        Title="Regional Summary of OCA RD Approval"
+        Link="/Content/Resources/_APP-PDFs/APP-PCA/Regional Summary of OCA RD Approval.pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly"></TocEntry>
+      <TocEntry
+        Title="Net Worth Category Reclassification Samples"
+        Link="/Content/Resources/_APP-PDFs/APP-PCA/Net Worth Category Reclassification Samples.pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly" />
+      <TocEntry
+        Title="Sample pro forma financials and ratios"
+        Link="/Content/Resources/_APP-PDFs/APP-PCA/Sample pro forma financials and ratios.pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly" />
+      <TocEntry
+        Title="NWRP RBP and Assumptions Workbook Sample"
+        Link="/Content/Resources/_APP-PDFs/APP-PCA/NWRP RBP and Assumptions Workbook Sample.pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly" />
+      <TocEntry
+        Title="Regional Summary of NWRP RBP Review"
+        Link="/Content/Resources/_APP-PDFs/APP-PCA/Regional Summary of NWRP RBP Review.pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly"></TocEntry>
+      <TocEntry
+        Title="NWRP RBP Review Checklist"
+        Link="/Content/Resources/_APP-PDFs/APP-PCA/NWRP RBP Review Checklist.pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly" />
+      <TocEntry
+        Title="Approve NWRP RBP"
+        Link="/Content/Resources/_APP-PDFs/APP-PCA/Approve NWRP RBP.pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly" />
+      <TocEntry
+        Title="Deny NWRP RBP"
+        Link="/Content/Resources/_APP-PDFs/APP-PCA/Deny NWRP RBP.pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly" />
+      <TocEntry
+        Title="Notify CU of Need to Revise or Replace NWRP"
+        Link="/Content/Resources/_APP-PDFs/APP-PCA/Notify CU of Need to Revise or Replace NWRP.pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly" />
+      <TocEntry
+        Title="Notify CU of Need to Submit NWRP RBP"
+        Link="/Content/Resources/_APP-PDFs/APP-PCA/Notify CU of Need to Submit NWRP RBP.pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly" />
+      <TocEntry
+        Title="Notify CU that NWRP RBP Is No Longer Required"
+        Link="/Content/Resources/_APP-PDFs/APP-PCA/Notify CU that NWRP RBP Is No Longer Required.pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly" />
+    </TocEntry>
+    <TocEntry
+      Title="Templates"
+      Link="/Content/NSPM/PCA/Templates-PCA-PRINT.htm"
+      conditions="Default.PrintOnly,Default.Redact for Public Use">
+      <TocEntry
+        Title="Quarterly PCA Tracking Report"
+        Link="/Content/Resources/_APP-PDFs/APP-PCA/Redacted/Quarterly PCA Tracking Report_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Redact for Public Use" />
+      <TocEntry
+        Title="Regional Summary of DSA Board Approval (EI format)"
+        Link="/Content/Resources/_APP-PDFs/APP-PCA/Redacted/Regional Summary of DSA Board Approval (EI format)_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Redact for Public Use" />
+      <TocEntry
+        Title="Regional Summary of DSA RD Approval"
+        Link="/Content/Resources/_APP-PDFs/APP-PCA/Redacted/Regional Summary of DSA RD Approval_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Redact for Public Use" />
+      <TocEntry
+        Title="Regional Summary of OCA RD Approval"
+        Link="/Content/Resources/_APP-PDFs/APP-PCA/Redacted/Regional Summary of OCA RD Approval_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Redact for Public Use" />
+      <TocEntry
+        Title="Net Worth Category Reclassification Samples"
+        Link="/Content/Resources/_APP-PDFs/APP-PCA/Redacted/Net Worth Category Reclassification Samples_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Redact for Public Use" />
+      <TocEntry
+        Title="Sample pro forma financials and ratios"
+        Link="/Content/Resources/_APP-PDFs/APP-PCA/Redacted/Sample pro forma financials and ratios_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Redact for Public Use" />
+      <TocEntry
+        Title="NWRP RBP and Assumptions Workbook Sample"
+        Link="/Content/Resources/_APP-PDFs/APP-PCA/Redacted/NWRP RBP and Assumptions Workbook Sample_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Redact for Public Use" />
+      <TocEntry
+        Title="Regional Summary of NWRP RBP Review"
+        Link="/Content/Resources/_APP-PDFs/APP-PCA/Redacted/Regional Summary of NWRP RBP Review_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Redact for Public Use" />
+      <TocEntry
+        Title="NWRP RBP Review Checklist"
+        Link="/Content/Resources/_APP-PDFs/APP-PCA/Redacted/NWRP RBP Review Checklist_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Redact for Public Use" />
+      <TocEntry
+        Title="Approve NWRP RBP"
+        Link="/Content/Resources/_APP-PDFs/APP-PCA/Redacted/Approve NWRP RBP_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Redact for Public Use" />
+      <TocEntry
+        Title="Deny NWRP RBP"
+        Link="/Content/Resources/_APP-PDFs/APP-PCA/Redacted/Deny NWRP RBP_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Redact for Public Use" />
+      <TocEntry
+        Title="Notify CU of Need to Revise or Replace NWRP"
+        Link="/Content/Resources/_APP-PDFs/APP-PCA/Redacted/Notify CU of Need to Revise or Replace NWRP_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Redact for Public Use" />
+      <TocEntry
+        Title="Notify CU of Need to Submit NWRP RBP"
+        Link="/Content/Resources/_APP-PDFs/APP-PCA/Redacted/Notify CU of Need to Submit NWRP RBP_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Redact for Public Use" />
+      <TocEntry
+        Title="Notify CU that NWRP RBP Is No Longer Required"
+        Link="/Content/Resources/_APP-PDFs/APP-PCA/Redacted/Notify CU that NWRP RBP Is No Longer Required_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Redact for Public Use" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Quality Assurance Program"
+    Link="/Content/NSPM/QA/QA_Program.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue">
+    <TocEntry
+      Title="Goals"
+      Link="/Content/NSPM/QA/01-Goals.htm"
+      StartSection="true"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Responsibilities"
+      Link="/Content/NSPM/QA/02-Responsibilities.htm"
+      StartSection="true"
+      PageNumberReset="continue">
+      <TocEntry
+        Title="Supervisor Responsibilities"
+        Link="/Content/NSPM/QA/Supervisor_Responsibilities.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Quality Control Process"
+      Link="/Content/NSPM/QA/Quality_Control_Process.htm"
+      StartSection="true"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Examination and Supervision QCR Minimum Selection Criteria"
+      Link="/Content/NSPM/QA/QCR_Minimum_Selection_Criteria.htm"
+      StartSection="true"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Examination and Supervision Program Review Process"
+      Link="/Content/NSPM/QA/Exam_Supervision_Program_Review.htm"
+      StartSection="true"
+      PageNumberReset="continue" />
+  </TocEntry>
+  <TocEntry
+    Title="Regulatory Waivers and other Regulatory Actions"
+    Link="/Content/NSPM/RegulatoryWaivers/Regulatory_Waivers.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue">
+    <TocEntry
+      Title="General Procedures and Requirements"
+      Link="/Content/NSPM/RegulatoryWaivers/01-Procedures_Requirements/General_Procedures_Requirements.htm"
+      StartSection="true"
+      PageNumberReset="continue">
+      <TocEntry
+        Title="Processing a Waiver Request"
+        Link="/Content/NSPM/RegulatoryWaivers/01-Procedures_Requirements/Processing.htm" />
+      <TocEntry
+        Title="Processing a Waiver Request from a FISCU"
+        Link="/Content/NSPM/RegulatoryWaivers/01-Procedures_Requirements/FISCU_Waiver_Processing.htm" />
+      <TocEntry
+        Title="Timeframes"
+        Link="/Content/NSPM/RegulatoryWaivers/01-Procedures_Requirements/Timeframes.htm" />
+      <TocEntry
+        Title="Periodic Review and Revocation"
+        Link="/Content/NSPM/RegulatoryWaivers/01-Procedures_Requirements/Periodic_Review_and_Revocation.htm" />
+      <TocEntry
+        Title="Monitoring and Controls"
+        Link="/Content/NSPM/RegulatoryWaivers/01-Procedures_Requirements/Monitoring_and_Controls.htm" />
+    </TocEntry>
+    <TocEntry
+      Title="Occupancy Waiver"
+      Link="/Content/NSPM/RegulatoryWaivers/02-OccupancyWaiver.htm"
+      StartSection="true"
+      PageNumberReset="continue">
+      <TocEntry
+        Title="Templates"
+        Link="/Content/NSPM/RegulatoryWaivers/12-Templates-Waivers/Templates-FixedAssetWaivers.htm"
+        conditions="Default.ScreenOnly,Default.InternalUseOnly" />
+      <TocEntry
+        Title="Templates"
+        Link="/Content/NSPM/RegulatoryWaivers/12-Templates-Waivers/Templates-FixedAssetWaiversPUBLIC.htm"
+        conditions="Default.PublicVersion-ONLINE,Default.ScreenOnly" />
+      <TocEntry
+        Title="Templates"
+        Link="/Content/NSPM/RegulatoryWaivers/12-Templates-Waivers/Templates-FixedAssetWaiversPRINT.htm"
+        conditions="Default.PrintOnly,Default.InternalUseOnly">
+        <TocEntry
+          Title="Respond to Incomplete Request for Occupancy Waiver"
+          Link="/Content/Resources/_APP-PDFs/APP-RegulatoryWaivers/Occupancy Waiver/Respond to Incomplete Request for Occupancy Waiver.pdf"
+          conditions="Default.PrintOnly,Default.InternalUseOnly"
+          StartSection="false" />
+        <TocEntry
+          Title="Acknowledge Request for Occupancy Waiver"
+          Link="/Content/Resources/_APP-PDFs/APP-RegulatoryWaivers/Occupancy Waiver/Acknowledge Request for Occupancy Waiver.pdf"
+          conditions="Default.PrintOnly,Default.InternalUseOnly" />
+        <TocEntry
+          Title="Regional Summary of Occupancy Waiver Request"
+          Link="/Content/Resources/_APP-PDFs/APP-RegulatoryWaivers/Occupancy Waiver/Regional Summary of Occupancy Waiver Request.pdf"
+          conditions="Default.PrintOnly,Default.InternalUseOnly" />
+        <TocEntry
+          Title="Approve Request for Occupancy Waiver"
+          Link="/Content/Resources/_APP-PDFs/APP-RegulatoryWaivers/Occupancy Waiver/Approve Request for Occupancy Waiver.pdf"
+          conditions="Default.PrintOnly,Default.InternalUseOnly" />
+        <TocEntry
+          Title="Deny Request for Occupancy Waiver"
+          Link="/Content/Resources/_APP-PDFs/APP-RegulatoryWaivers/Occupancy Waiver/Deny Request for Occupancy Waiver.pdf"
+          conditions="Default.PrintOnly,Default.InternalUseOnly" />
+      </TocEntry>
+      <TocEntry
+        Title="Templates"
+        Link="/Content/NSPM/RegulatoryWaivers/12-Templates-Waivers/Templates-FixedAssetWaiversPRINT.htm"
+        conditions="Default.PrintOnly,Default.Redact for Public Use">
+        <TocEntry
+          Title="Respond to Incomplete Request for Occupancy Waiver"
+          Link="/Content/Resources/_APP-PDFs/APP-RegulatoryWaivers/Occupancy Waiver/Redacted/Respond to Incomplete Request for Occupancy Waiver_Redacted.pdf"
+          conditions="Default.PrintOnly,Default.Redact for Public Use" />
+        <TocEntry
+          Title="Acknowledge Request for Occupancy Waiver"
+          Link="/Content/Resources/_APP-PDFs/APP-RegulatoryWaivers/Occupancy Waiver/Redacted/Acknowledge Request for Occupancy Waiver_Redacted.pdf"
+          conditions="Default.PrintOnly,Default.Redact for Public Use" />
+        <TocEntry
+          Title="Regional Summary of Occupancy Waiver Request"
+          Link="/Content/Resources/_APP-PDFs/APP-RegulatoryWaivers/Occupancy Waiver/Redacted/Regional Summary of Occupancy Waiver Request_Redacted.pdf"
+          conditions="Default.PrintOnly,Default.Redact for Public Use" />
+        <TocEntry
+          Title="Approve Request for Occupancy Waiver"
+          Link="/Content/Resources/_APP-PDFs/APP-RegulatoryWaivers/Occupancy Waiver/Redacted/Approve Request for Occupancy Waiver_Redacted.pdf"
+          conditions="Default.PrintOnly,Default.Redact for Public Use" />
+        <TocEntry
+          Title="Deny Request for Occupancy Waiver"
+          Link="/Content/Resources/_APP-PDFs/APP-RegulatoryWaivers/Occupancy Waiver/Redacted/Deny Request for Occupancy Waiver_Redacted.pdf"
+          conditions="Default.PrintOnly,Default.Redact for Public Use" />
+      </TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="Non-Member Deposits Limitation Waiver"
+      Link="/Content/NSPM/RegulatoryWaivers/04-Nonmember_Deposits_Limitation_Waiver.htm"
+      StartSection="true"
+      PageNumberReset="continue">
+      <TocEntry
+        Title="Templates"
+        Link="/Content/NSPM/RegulatoryWaivers/12-Templates-Waivers/Templates-NonMemberDepositsLimitation.htm"
+        conditions="Default.ScreenOnly,Default.InternalUseOnly" />
+      <TocEntry
+        Title="Templates"
+        Link="/Content/NSPM/RegulatoryWaivers/12-Templates-Waivers/Templates-NonMemberDepositsLimitationPUBLIC.htm"
+        conditions="Default.PublicVersion-ONLINE,Default.ScreenOnly" />
+      <TocEntry
+        Title="Templates"
+        Link="/Content/NSPM/RegulatoryWaivers/12-Templates-Waivers/Templates-NonMemberDepositsLimitationPRINT.htm"
+        conditions="Default.PrintOnly,Default.InternalUseOnly">
+        <TocEntry
+          Title="Respond to Incomplete Request for Non-Member Deposit Exemption"
+          Link="/Content/Resources/_APP-PDFs/APP-RegulatoryWaivers/Nonmember Deposit Exemption/Respond to Incomplete Request for Non-Member Deposit Exemption.pdf"
+          conditions="Default.PrintOnly,Default.InternalUseOnly" />
+        <TocEntry
+          Title="Acknowledge Request for Non-Member Deposit Exemption"
+          Link="/Content/Resources/_APP-PDFs/APP-RegulatoryWaivers/Nonmember Deposit Exemption/Acknowledge Request for Non-Member Deposit Exemption.pdf"
+          conditions="Default.PrintOnly,Default.InternalUseOnly" />
+        <TocEntry
+          Title="Regional Summary of Non-Member Deposit Exemption"
+          Link="/Content/Resources/_APP-PDFs/APP-RegulatoryWaivers/Nonmember Deposit Exemption/Regional Summary of Non-Member Deposit Exemption.pdf"
+          conditions="Default.PrintOnly,Default.InternalUseOnly" />
+        <TocEntry
+          Title="Approve Request for Non-Member Deposit Exemption"
+          Link="/Content/Resources/_APP-PDFs/APP-RegulatoryWaivers/Nonmember Deposit Exemption/Approve Request for Non-Member Deposit Exemption.pdf"
+          conditions="Default.PrintOnly,Default.InternalUseOnly" />
+        <TocEntry
+          Title="Deny Request for Non-Member Deposit Exemption"
+          Link="/Content/Resources/_APP-PDFs/APP-RegulatoryWaivers/Nonmember Deposit Exemption/Deny Request for Non-Member Deposit Exemption.pdf"
+          conditions="Default.PrintOnly,Default.InternalUseOnly" />
+        <TocEntry
+          Title="Respond to Violation of Non-Member Deposit Exemption"
+          Link="/Content/Resources/_APP-PDFs/APP-RegulatoryWaivers/Nonmember Deposit Exemption/Respond to Violation of Non-Member Deposit Exemption.pdf"
+          conditions="Default.PrintOnly,Default.InternalUseOnly" />
+      </TocEntry>
+      <TocEntry
+        Title="Templates"
+        Link="/Content/NSPM/RegulatoryWaivers/12-Templates-Waivers/Templates-NonMemberDepositsLimitationPRINT.htm"
+        conditions="Default.PrintOnly,Default.Redact for Public Use">
+        <TocEntry
+          Title="Respond to Incomplete Request for Non-Member Deposit Exemption"
+          Link="/Content/Resources/_APP-PDFs/APP-RegulatoryWaivers/Nonmember Deposit Exemption/Redacted/Respond to Incomplete Request for Non-Member Deposit Exemption_Redacted.pdf"
+          conditions="Default.PrintOnly,Default.Redact for Public Use" />
+        <TocEntry
+          Title="Acknowledge Request for Non-Member Deposit Exemption"
+          Link="/Content/Resources/_APP-PDFs/APP-RegulatoryWaivers/Nonmember Deposit Exemption/Redacted/Acknowledge Request for Non-Member Deposit Exemption_Redacted.pdf"
+          conditions="Default.PrintOnly,Default.Redact for Public Use" />
+        <TocEntry
+          Title="Regional Summary of Non-Member Deposit Exemption"
+          Link="/Content/Resources/_APP-PDFs/APP-RegulatoryWaivers/Nonmember Deposit Exemption/Redacted/Regional Summary of Non-Member Deposit Exemption_Redacted.pdf"
+          conditions="Default.PrintOnly,Default.Redact for Public Use" />
+        <TocEntry
+          Title="Approve Request for Non-Member Deposit Exemption"
+          Link="/Content/Resources/_APP-PDFs/APP-RegulatoryWaivers/Nonmember Deposit Exemption/Redacted/Approve Request for Non-Member Deposit Exemption_Redacted.pdf"
+          conditions="Default.PrintOnly,Default.Redact for Public Use" />
+        <TocEntry
+          Title="Deny Request for Non-Member Deposit Exemption"
+          Link="/Content/Resources/_APP-PDFs/APP-RegulatoryWaivers/Nonmember Deposit Exemption/Redacted/Deny Request for Non-Member Deposit Exemption_Redacted.pdf"
+          conditions="Default.PrintOnly,Default.Redact for Public Use" />
+        <TocEntry
+          Title="Respond to Violation of Non-Member Deposit Exemption"
+          Link="/Content/Resources/_APP-PDFs/APP-RegulatoryWaivers/Nonmember Deposit Exemption/Redacted/Respond to Violation of Non-Member Deposit Exemption_Redacted.pdf"
+          conditions="Default.PrintOnly,Default.Redact for Public Use" />
+      </TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="Earnings Transfer Waiver"
+      Link="/Content/NSPM/RegulatoryWaivers/05-Earnings_Transfer_Waiver/EarningsTransferWaiver.htm"
+      StartSection="true"
+      PageNumberReset="continue">
+      <TocEntry
+        Title="Earnings Retention"
+        Link="/Content/NSPM/RegulatoryWaivers/05-Earnings_Transfer_Waiver/EarningsRetention.htm" />
+      <TocEntry
+        Title="Reduction of the Earnings Transfer Requirement"
+        Link="/Content/NSPM/RegulatoryWaivers/05-Earnings_Transfer_Waiver/Reduction_of_Earnings_Transfer_Requirement.htm" />
+      <TocEntry
+        Title="Templates"
+        Link="/Content/NSPM/RegulatoryWaivers/12-Templates-Waivers/Templates-RequestDecreaseEarningsTransfer.htm"
+        conditions="Default.ScreenOnly,Default.InternalUseOnly" />
+      <TocEntry
+        Title="Templates"
+        Link="/Content/NSPM/RegulatoryWaivers/12-Templates-Waivers/Templates-RequestDecreaseEarningsTransferPUBLIC.htm"
+        conditions="Default.PublicVersion-ONLINE,Default.ScreenOnly" />
+      <TocEntry
+        Title="Templates"
+        Link="/Content/NSPM/RegulatoryWaivers/12-Templates-Waivers/Templates-RequestDecreaseEarningsTransferPRINT.htm"
+        conditions="Default.PrintOnly,Default.InternalUseOnly">
+        <TocEntry
+          Title="Respond to Incomplete Request to Decrease Earnings Transfer Requirements"
+          Link="/Content/Resources/_APP-PDFs/APP-RegulatoryWaivers/Earnings Transfer/Respond to Incomplete Request to Decrease Earnings Transfer Requirements.pdf"
+          conditions="Default.PrintOnly,Default.InternalUseOnly" />
+        <TocEntry
+          Title="Regional Summary of Decrease in Earnings Transfer Requirement"
+          Link="/Content/Resources/_APP-PDFs/APP-RegulatoryWaivers/Earnings Transfer/Regional Summary of Decrease in Earnings Transfer Requirement.pdf"
+          conditions="Default.PrintOnly,Default.InternalUseOnly" />
+        <TocEntry
+          Title="Approve Request to Reduce Earnings Transfer Requirement"
+          Link="/Content/Resources/_APP-PDFs/APP-RegulatoryWaivers/Earnings Transfer/Approve Request to Reduce Earnings Transfer Requirement.pdf"
+          conditions="Default.PrintOnly,Default.InternalUseOnly" />
+        <TocEntry
+          Title="Deny Request to Reduce Earnings Transfer Requirement"
+          Link="/Content/Resources/_APP-PDFs/APP-RegulatoryWaivers/Earnings Transfer/Deny Request to Reduce Earnings Transfer Requirement.pdf"
+          conditions="Default.PrintOnly,Default.InternalUseOnly" />
+      </TocEntry>
+      <TocEntry
+        Title="Templates"
+        Link="/Content/NSPM/RegulatoryWaivers/12-Templates-Waivers/Templates-RequestDecreaseEarningsTransferPRINT.htm"
+        conditions="Default.PrintOnly,Default.Redact for Public Use">
+        <TocEntry
+          Title="Respond to Incomplete Request to Decrease Earnings Transfer Requirements"
+          Link="/Content/Resources/_APP-PDFs/APP-RegulatoryWaivers/Earnings Transfer/Redacted/Respond to Incomplete Request to Decrease Earnings Transfer Requirements_Redacted.pdf"
+          conditions="Default.PrintOnly,Default.Redact for Public Use" />
+        <TocEntry
+          Title="Regional Summary of Decrease in Earnings Transfer Requirement"
+          Link="/Content/Resources/_APP-PDFs/APP-RegulatoryWaivers/Earnings Transfer/Redacted/Regional Summary of Decrease in Earnings Transfer Requirement_Redacted.pdf"
+          conditions="Default.PrintOnly,Default.Redact for Public Use" />
+        <TocEntry
+          Title="Approve Request to Reduce Earnings Transfer Requirement"
+          Link="/Content/Resources/_APP-PDFs/APP-RegulatoryWaivers/Earnings Transfer/Redacted/Approve Request to Reduce Earnings Transfer Requirement_Redacted.pdf"
+          conditions="Default.PrintOnly,Default.Redact for Public Use" />
+        <TocEntry
+          Title="Deny Request to Reduce Earnings Transfer Requirement"
+          Link="/Content/Resources/_APP-PDFs/APP-RegulatoryWaivers/Earnings Transfer/Redacted/Deny Request to Reduce Earnings Transfer Requirement_Redacted.pdf"
+          conditions="Default.PrintOnly,Default.Redact for Public Use" />
+      </TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="Loan Participation Waiver"
+      Link="/Content/NSPM/RegulatoryWaivers/09-Loan_Participation_Waiver.htm"
+      StartSection="true"
+      PageNumberReset="continue">
+      <TocEntry
+        Title="Templates"
+        Link="/Content/NSPM/RegulatoryWaivers/12-Templates-Waivers/Templates-LoanParticipationLimitWaiver.htm"
+        conditions="Default.ScreenOnly,Default.InternalUseOnly" />
+      <TocEntry
+        Title="Templates"
+        Link="/Content/NSPM/RegulatoryWaivers/12-Templates-Waivers/Templates-LoanParticipationLimitWaiverPUBLIC.htm"
+        conditions="Default.ScreenOnly,Default.PublicVersion-ONLINE" />
+      <TocEntry
+        Title="Templates"
+        Link="/Content/NSPM/RegulatoryWaivers/12-Templates-Waivers/Templates-LoanParticipationLimitWaiverPRINT.htm"
+        conditions="Default.PrintOnly,Default.InternalUseOnly">
+        <TocEntry
+          Title="Respond to Incomplete Request for Loan Participation Limit Waiver"
+          Link="/Content/Resources/_APP-PDFs/APP-RegulatoryWaivers/Loan Participation Limit/Respond to Incomplete Request for Loan Participation Limit Waiver.pdf"
+          conditions="Default.PrintOnly,Default.InternalUseOnly" />
+        <TocEntry
+          Title="Acknowledge Request for Loan Participation Limit Waiver"
+          Link="/Content/Resources/_APP-PDFs/APP-RegulatoryWaivers/Loan Participation Limit/Acknowledge Request for Loan Participation Limit Waiver.pdf"
+          conditions="Default.PrintOnly,Default.InternalUseOnly" />
+        <TocEntry
+          Title="Regional Summary of Loan Participation Limit Waiver"
+          Link="/Content/Resources/_APP-PDFs/APP-RegulatoryWaivers/Loan Participation Limit/Regional Summary of Loan Participation Limit Waiver.pdf"
+          conditions="Default.PrintOnly,Default.InternalUseOnly" />
+        <TocEntry
+          Title="Approve Request for Loan Participation Limit Waiver"
+          Link="/Content/Resources/_APP-PDFs/APP-RegulatoryWaivers/Loan Participation Limit/Approve Request for Loan Participation Limit Waiver.pdf"
+          conditions="Default.PrintOnly,Default.InternalUseOnly" />
+        <TocEntry
+          Title="Deny Request for Loan Participation Limit Waiver"
+          Link="/Content/Resources/_APP-PDFs/APP-RegulatoryWaivers/Loan Participation Limit/Deny Request for Loan Participation Limit Waiver.pdf"
+          conditions="Default.PrintOnly,Default.InternalUseOnly" />
+      </TocEntry>
+      <TocEntry
+        Title="Templates"
+        Link="/Content/NSPM/RegulatoryWaivers/12-Templates-Waivers/Templates-LoanParticipationLimitWaiverPRINT.htm"
+        conditions="Default.PrintOnly,Default.Redact for Public Use">
+        <TocEntry
+          Title="Respond to Incomplete Request for Loan Participation Limit Waiver"
+          Link="/Content/Resources/_APP-PDFs/APP-RegulatoryWaivers/Loan Participation Limit/Redacted/Respond to Incomplete Request for Loan Participation Limit Waiver_Redacted.pdf"
+          conditions="Default.PrintOnly,Default.Redact for Public Use" />
+        <TocEntry
+          Title="Acknowledge Request for Loan Participation Limit Waiver"
+          Link="/Content/Resources/_APP-PDFs/APP-RegulatoryWaivers/Loan Participation Limit/Redacted/Acknowledge Request for Loan Participation Limit Waiver_Redacted.pdf"
+          conditions="Default.PrintOnly,Default.Redact for Public Use" />
+        <TocEntry
+          Title="Regional Summary of Loan Participation Limit Waiver"
+          Link="/Content/Resources/_APP-PDFs/APP-RegulatoryWaivers/Loan Participation Limit/Redacted/Regional Summary of Loan Participation Limit Waiver_Redacted.pdf"
+          conditions="Default.PrintOnly,Default.Redact for Public Use" />
+        <TocEntry
+          Title="Approve Request for Loan Participation Limit Waiver"
+          Link="/Content/Resources/_APP-PDFs/APP-RegulatoryWaivers/Loan Participation Limit/Redacted/Approve Request for Loan Participation Limit Waiver_Redacted.pdf"
+          conditions="Default.PrintOnly,Default.Redact for Public Use" />
+        <TocEntry
+          Title="Deny Request for Loan Participation Limit Waiver"
+          Link="/Content/Resources/_APP-PDFs/APP-RegulatoryWaivers/Loan Participation Limit/Redacted/Deny Request for Loan Participation Limit Waiver_Redacted.pdf"
+          conditions="Default.PrintOnly,Default.Redact for Public Use" />
+      </TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="Secondary Capital"
+      Link="/Content/NSPM/RegulatoryWaivers/11-SecondaryCapital/Secondary_Capital.htm"
+      StartSection="true"
+      PageNumberReset="continue">
+      <TocEntry
+        Title="Secondary Capital Plans"
+        Link="/Content/NSPM/RegulatoryWaivers/11-SecondaryCapital/Secondary_Capital_Plans.htm" />
+      <TocEntry
+        Title="Secondary Capital Redemptions"
+        Link="/Content/NSPM/RegulatoryWaivers/11-SecondaryCapital/Redemptions.htm"
+        StartSection="true"
+        PageNumberReset="continue" />
+      <TocEntry
+        Title="Templates"
+        Link="/Content/NSPM/RegulatoryWaivers/12-Templates-Waivers/Templates-SecondaryCapitalPlan.htm"
+        conditions="Default.ScreenOnly,Default.InternalUseOnly" />
+      <TocEntry
+        Title="Templates"
+        Link="/Content/NSPM/RegulatoryWaivers/12-Templates-Waivers/Templates-SecondaryCapitalPlanPUBLIC.htm"
+        conditions="Default.PublicVersion-ONLINE,Default.ScreenOnly" />
+      <TocEntry
+        Title="Templates"
+        Link="/Content/NSPM/RegulatoryWaivers/12-Templates-Waivers/Templates-SecondaryCapitalPlanPRINT.htm"
+        conditions="Default.PrintOnly,Default.InternalUseOnly">
+        <TocEntry
+          Title="Respond to Incomplete Proposed Secondary Capital Plan"
+          Link="/Content/Resources/_APP-PDFs/APP-RegulatoryWaivers/Secondary Capital/Respond to Incomplete Proposed Secondary Capital Plan.pdf"
+          conditions="Default.PrintOnly,Default.InternalUseOnly" />
+        <TocEntry
+          Title="Acknowledge Submission of Secondary Capital Plan"
+          Link="/Content/Resources/_APP-PDFs/APP-RegulatoryWaivers/Secondary Capital/Acknowledge Submission of Secondary Capital Plan.pdf"
+          conditions="Default.PrintOnly,Default.InternalUseOnly" />
+        <TocEntry
+          Title="Regional Summary of Secondary Capital Plan Application"
+          Link="/Content/Resources/_APP-PDFs/APP-RegulatoryWaivers/Secondary Capital/Regional Summary of Secondary Capital Plan Application.pdf"
+          conditions="Default.PrintOnly,Default.InternalUseOnly" />
+        <TocEntry
+          Title="Approve Secondary Capital Plan with Contingency"
+          Link="/Content/Resources/_APP-PDFs/APP-RegulatoryWaivers/Secondary Capital/Approve Secondary Capital Plan with Contingency.pdf"
+          conditions="Default.PrintOnly,Default.InternalUseOnly" />
+        <TocEntry
+          Title="Approve Secondary Capital Plan"
+          Link="/Content/Resources/_APP-PDFs/APP-RegulatoryWaivers/Secondary Capital/Approve Secondary Capital Plan.pdf"
+          conditions="Default.PrintOnly,Default.InternalUseOnly" />
+        <TocEntry
+          Title="Deny Secondary Capital Plan"
+          Link="/Content/Resources/_APP-PDFs/APP-RegulatoryWaivers/Secondary Capital/Deny Secondary Capital Plan.pdf"
+          conditions="Default.PrintOnly,Default.InternalUseOnly" />
+        <TocEntry
+          Title="Acknowledge Request to Redeem Secondary Capital"
+          Link="/Content/Resources/_APP-PDFs/APP-RegulatoryWaivers/Secondary Capital/Acknowledge Request to Redeem Secondary Capital.pdf"
+          conditions="Default.PrintOnly,Default.InternalUseOnly" />
+        <TocEntry
+          Title="Regional Summary of Request to Redeem Secondary Capital"
+          Link="/Content/Resources/_APP-PDFs/APP-RegulatoryWaivers/Secondary Capital/Regional Summary of Request to Redeem Secondary Capital.pdf"
+          conditions="Default.PrintOnly,Default.InternalUseOnly" />
+        <TocEntry
+          Title="Approve Request to Redeem Secondary Capital"
+          Link="/Content/Resources/_APP-PDFs/APP-RegulatoryWaivers/Secondary Capital/Approve Request to Redeem Secondary Capital.pdf"
+          conditions="Default.PrintOnly,Default.InternalUseOnly" />
+      </TocEntry>
+      <TocEntry
+        Title="Templates"
+        Link="/Content/NSPM/RegulatoryWaivers/12-Templates-Waivers/Templates-SecondaryCapitalPlanPRINT.htm"
+        conditions="Default.PrintOnly,Default.Redact for Public Use">
+        <TocEntry
+          Title="Respond to Incomplete Proposed Secondary Capital Plan"
+          Link="/Content/Resources/_APP-PDFs/APP-RegulatoryWaivers/Secondary Capital/Redacted/Respond to Incomplete Proposed Secondary Capital Plan_Redacted.pdf"
+          conditions="Default.PrintOnly,Default.Redact for Public Use" />
+        <TocEntry
+          Title="Acknowledge Submission of Secondary Capital Plan"
+          Link="/Content/Resources/_APP-PDFs/APP-RegulatoryWaivers/Secondary Capital/Redacted/Acknowledge Submission of Secondary Capital Plan_Redacted.pdf"
+          conditions="Default.PrintOnly,Default.Redact for Public Use" />
+        <TocEntry
+          Title="Regional Summary of Secondary Capital Plan Application"
+          Link="/Content/Resources/_APP-PDFs/APP-RegulatoryWaivers/Secondary Capital/Redacted/Regional Summary of Secondary Capital Plan Application_Redacted.pdf"
+          conditions="Default.PrintOnly,Default.Redact for Public Use" />
+        <TocEntry
+          Title="Approve Secondary Capital Plan with Contingency"
+          Link="/Content/Resources/_APP-PDFs/APP-RegulatoryWaivers/Secondary Capital/Redacted/Approve Secondary Capital Plan with Contingency_Redacted.pdf"
+          conditions="Default.PrintOnly,Default.Redact for Public Use" />
+        <TocEntry
+          Title="Approve Secondary Capital Plan"
+          Link="/Content/Resources/_APP-PDFs/APP-RegulatoryWaivers/Secondary Capital/Redacted/Approve Secondary Capital Plan_Redacted.pdf"
+          conditions="Default.PrintOnly,Default.Redact for Public Use" />
+        <TocEntry
+          Title="Deny Secondary Capital Plan"
+          Link="/Content/Resources/_APP-PDFs/APP-RegulatoryWaivers/Secondary Capital/Redacted/Deny Secondary Capital Plan_Redacted.pdf"
+          conditions="Default.PrintOnly,Default.Redact for Public Use" />
+        <TocEntry
+          Title="Acknowledge Request to Redeem Secondary Capital"
+          Link="/Content/Resources/_APP-PDFs/APP-RegulatoryWaivers/Secondary Capital/Redacted/Acknowledge Request to Redeem Secondary Capital_Redacted.pdf"
+          conditions="Default.PrintOnly,Default.Redact for Public Use" />
+        <TocEntry
+          Title="Regional Summary of Request to Redeem Secondary Capital"
+          Link="/Content/Resources/_APP-PDFs/APP-RegulatoryWaivers/Secondary Capital/Redacted/Regional Summary of Request to Redeem Secondary Capital_Redacted.pdf"
+          conditions="Default.PrintOnly,Default.Redact for Public Use" />
+        <TocEntry
+          Title="Approve Request to Redeem Secondary Capital"
+          Link="/Content/Resources/_APP-PDFs/APP-RegulatoryWaivers/Secondary Capital/Redacted/Approve Request to Redeem Secondary Capital_Redacted.pdf"
+          conditions="Default.PrintOnly,Default.Redact for Public Use" />
+      </TocEntry>
+    </TocEntry>
+    <TocEntry
+      Title="Templates"
+      Link="/Content/NSPM/RegulatoryWaivers/12-Templates-Waivers/Templates-Waivers.htm"
+      conditions="Default.ScreenOnly,Default.InternalUseOnly" />
+    <TocEntry
+      Title="Templates"
+      Link="/Content/NSPM/RegulatoryWaivers/12-Templates-Waivers/Templates-WaiversPUBLIC.htm"
+      conditions="Default.PublicVersion-ONLINE,Default.ScreenOnly" />
+    <TocEntry
+      Title="Templates"
+      Link="/Content/NSPM/RegulatoryWaivers/12-Templates-Waivers/Templates-WaiversPRINT.htm"
+      conditions="Default.PrintOnly,Default.InternalUseOnly"></TocEntry>
+    <TocEntry
+      Title="Templates"
+      Link="/Content/NSPM/RegulatoryWaivers/12-Templates-Waivers/Templates-WaiversPRINT.htm"
+      conditions="Default.PrintOnly,Default.Redact for Public Use" />
+  </TocEntry>
+  <TocEntry
+    Title="Unauthorized Access to Member Information"
+    Link="/Content/NSPM/UnauthorizedAccess/UnauthorizedAccess.htm"
+    BreakType="chapter"
+    StartSection="true"
+    PageNumberReset="continue">
+    <TocEntry
+      Title="Roles and Responsibilities"
+      Link="/Content/NSPM/UnauthorizedAccess/Responsibilities.htm" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/NSPM/UnauthorizedAccess/ProcessNotification.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/NSPM/UnauthorizedAccess/AssessResponsePlan.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/NSPM/UnauthorizedAccess/CommensurateRisk.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Templates"
+      Link="/Content/NSPM/UnauthorizedAccess/Templates-UnauthAccess.htm"
+      conditions="Default.ScreenOnly,Default.InternalUseOnly" />
+    <TocEntry
+      Title="Templates"
+      Link="/Content/NSPM/UnauthorizedAccess/Templates-UnauthAccessPUBLIConline.htm"
+      conditions="Default.PublicVersion-ONLINE,Default.ScreenOnly" />
+    <TocEntry
+      Title="Templates"
+      Link="/Content/NSPM/UnauthorizedAccess/Templates-UnauthAccessPRINT.htm"
+      conditions="Default.PrintOnly,Default.InternalUseOnly">
+      <TocEntry
+        Title="Acknowledge Notification of Unauthorized Access"
+        Link="/Content/Resources/_APP-PDFs/APP-UnauthAccess/Acknowledge Notification of Unauthorized Access.pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly" />
+      <TocEntry
+        Title="Regional Summary – Unauthorized Access"
+        Link="/Content/Resources/_APP-PDFs/APP-UnauthAccess/Regional Summary – Unauthorized Access.pdf"
+        conditions="Default.PrintOnly,Default.InternalUseOnly" />
+      <TocEntry
+        Title="Respond to Unauthorized Access Notification  (sample)"
+        Link="/Content/Resources/_APP-PDFs/APP-UnauthAccess/Respond to Unauthorized Access Notification  (sample).pdf"
+        conditions="Default.InternalUseOnly,Default.PrintOnly" />
+      <TocEntry
+        Title="IT Incident Checklist"
+        Link="/Content/Resources/_APP-PDFs/APP-UnauthAccess/IT Incident Checklist.pdf"
+        conditions="Default.InternalUseOnly,Default.PrintOnly" />
+      <TocEntry
+        Title="Acknowlege Deferred Follow-up"
+        Link="/Content/Resources/_APP-PDFs/APP-UnauthAccess/Acknowlege Deferred Follow-up.pdf"
+        conditions="Default.InternalUseOnly,Default.PrintOnly" />
+      <TocEntry
+        Title="Acknowlege 60 day Follow-up"
+        Link="/Content/Resources/_APP-PDFs/APP-UnauthAccess/Acknowlege 60 day Follow-up.pdf"
+        conditions="Default.InternalUseOnly,Default.PrintOnly" />
+      <TocEntry
+        Title="Work Assignment Memo"
+        Link="/Content/Resources/_APP-PDFs/APP-UnauthAccess/Work Assignment Memo.pdf"
+        conditions="Default.InternalUseOnly,Default.PrintOnly" />
+      <TocEntry
+        Title="Closing Letter"
+        Link="/Content/Resources/_APP-PDFs/APP-UnauthAccess/Closing Letter.pdf"
+        conditions="Default.InternalUseOnly,Default.PrintOnly" />
+    </TocEntry>
+    <TocEntry
+      Title="Templates"
+      Link="/Content/NSPM/UnauthorizedAccess/Templates-UnauthAccessPRINT.htm"
+      conditions="Default.Redact for Public Use,Default.PrintOnly">
+      <TocEntry
+        Title="Acknowledge Notification of Unauthorized Access"
+        Link="/Content/Resources/_APP-PDFs/APP-UnauthAccess/Redacted/Acknowledge Notification of Unauthorized Access_Redacted.pdf"
+        conditions="Default.Redact for Public Use,Default.PrintOnly" />
+      <TocEntry
+        Title="Regional Summary – Unauthorized Access"
+        Link="/Content/Resources/_APP-PDFs/APP-UnauthAccess/Redacted/Regional Summary – Unauthorized Access_Redacted.pdf"
+        conditions="Default.Redact for Public Use,Default.PrintOnly" />
+      <TocEntry
+        Title="Respond to Unauthorized Access Notification  (sample)"
+        Link="/Content/Resources/_APP-PDFs/APP-UnauthAccess/Redacted/Respond to Unauthorized Access Notification  (sample)_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Redact for Public Use" />
+      <TocEntry
+        Title="IT Incident Checklist"
+        Link="/Content/Resources/_APP-PDFs/APP-UnauthAccess/Redacted/IT Incident Checklist_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Redact for Public Use" />
+      <TocEntry
+        Title="Acknowlege Deferred Follow-up"
+        Link="/Content/Resources/_APP-PDFs/APP-UnauthAccess/Redacted/Acknowlege Deferred Follow-up_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Redact for Public Use" />
+      <TocEntry
+        Title="Acknowlege 60 day Follow-up"
+        Link="/Content/Resources/_APP-PDFs/APP-UnauthAccess/Redacted/Acknowlege 60 day Follow-up_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Redact for Public Use" />
+      <TocEntry
+        Title="Work Assignment Memo"
+        Link="/Content/Resources/_APP-PDFs/APP-UnauthAccess/Redacted/Work Assignment Memo_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Redact for Public Use" />
+      <TocEntry
+        Title="Closing Letter"
+        Link="/Content/Resources/_APP-PDFs/APP-UnauthAccess/Redacted/Closing Letter_Redacted.pdf"
+        conditions="Default.PrintOnly,Default.Redact for Public Use" />
+    </TocEntry>
+  </TocEntry>
+  <TocEntry
+    Title="Work Classification Codes"
+    Link="/Content/NSPM/WCC/WCCs.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue">
+    <TocEntry
+      Title="General Codes"
+      Link="/Content/NSPM/WCC/WCC-General.htm"
+      StartSection="true"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="Administrative Codes"
+      Link="/Content/NSPM/WCC/WCC-Admin.htm"
+      StartSection="true"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="SME Codes"
+      Link="/Content/NSPM/WCC/WCC-SME.htm"
+      StartSection="true"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="EDS Codes"
+      Link="/Content/NSPM/WCC/WCC-EDS.htm"
+      StartSection="true"
+      PageNumberReset="continue" />
+    <TocEntry
+      Title="OCP Codes"
+      Link="/Content/NSPM/WCC/WCC-OCP.htm"
+      StartSection="true"
+      PageNumberReset="continue" />
+  </TocEntry>
+  <TocEntry
+    Title="Enforcement Authorities"
+    Link="/Content/NSPM/EnforcementAuthorities.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue"
+    conditions="Redaction.Redacted" />
+  <TocEntry
+    Title="Regional Office Map"
+    Link="/Content/NSPM/Map.htm"
+    BreakType="chapter"
+    StartSection="false"
+    PageNumberReset="continue" />
+  <TocEntry
+    Title="NSPM Archive"
+    Link="/Content/NSPM/Archive.htm"
+    conditions="Default.ScreenOnly,Default.InternalUseOnly"
+    StartSection="false"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    BreakType="chapter"
+    PageNumberReset="continue" />
+  <TocEntry
+    Title="Glossary"
+    Link="/Content/NSPM/_PrintOnly/Glossary.htm"
+    conditions="Default.PrintOnly"
+    StartSection="false"
+    SectionNumberReset="continue"
+    VolumeNumberReset="same"
+    ChapterNumberReset="continue"
+    BreakType="chapter"
+    PageNumberFormat="lower-roman"
+    PageNumberReset="reset"
+    PageLayout="/Content/Resources/PageLayouts/RomanNumeralFooter.flpgl"
+    PageNumber="1" />
+  <TocEntry
+    Title="Index"
+    Link="/Content/NSPM/_PrintOnly/Index.htm"
+    conditions="Default.PrintOnly"
+    BreakType="chapter"
+    PageNumberFormat="lower-roman"
+    StartSection="false"
+    PageNumberReset="continue"
+    PageLayout="/Content/Resources/PageLayouts/RomanNumeralFooter.flpgl" />
+</CatapultToc>

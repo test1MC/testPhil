@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="MsWord"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  EmbedImages="true"
+  MasterToc="/Project/TOCs/Word.fltoc"
+  MasterStylesheet="/Content/Resources/Stylesheets/Master_Style_Sheet.css"
+  GetLatestBeforeCompile="true"
+  ConditionTagExpression="include[Default.PrintOnly or Redaction.Redacted] exclude[Default.ScreenOnly or Redaction.Non-Redacted] "
+  MasterPage="/Content/Resources/MasterPages/MasterPage.flmsp"
+  Medium="print">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+</CatapultTarget>

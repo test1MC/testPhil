@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultDestination
+  Version="1"
+  Comment="This is my publish destination"
+  Host=""
+  User="MyAccountId"
+  Password=""
+  Directory="http://publishedguidesdevauth.ncua.lan/nspm/Pages"
+  Port=""
+  ViewUrl=""
+  Type="file"
+  UploadLogFile="true"></CatapultDestination>
